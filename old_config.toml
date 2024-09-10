@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = "pl-PL"
+defaultContentLanguage = "pl"
+title = 'Polska Szkoła w Burnley'
+theme = "ananke"
