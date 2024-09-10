@@ -9,7 +9,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # 
 googleAnalytics = ""
 enableRobotsTXT = true
-canonifyURLs = true
+canonifyURL = true
 
 [languages]
   [languages.pl]
