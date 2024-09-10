@@ -6,10 +6,10 @@ resourceDir = "../resources"
 
 DefaultContentLanguage = "pl"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 3 # 
 googleAnalytics = ""
 enableRobotsTXT = true
-
+canonifyURLs = true
 
 [languages]
   [languages.pl]
