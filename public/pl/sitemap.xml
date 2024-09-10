@@ -2,61 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/contact/</loc>
+    <lastmod>2024-09-09T20:33:42+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dwapir.github.io/strona-testowa/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://dwapir.github.io/strona-testowa/contact/"
+                />
+  </url><url>
+    <loc>https://dwapir.github.io/strona-testowa/</loc>
+    <lastmod>2024-09-09T20:33:42+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://dwapir.github.io/strona-testowa/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://dwapir.github.io/strona-testowa/"
+                />
+  </url><url>
+    <loc>https://dwapir.github.io/strona-testowa/about/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/about/"
+                href="https://dwapir.github.io/strona-testowa/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://example.org/about/"
+                href="https://dwapir.github.io/strona-testowa/about/"
                 />
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://dwapir.github.io/strona-testowa/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://example.org/categories/"
+                href="https://dwapir.github.io/strona-testowa/categories/"
                 />
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://dwapir.github.io/strona-testowa/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://example.org/tags/"
-                />
-  </url><url>
-    <loc>http://example.org/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="http://example.org/"
+                href="https://dwapir.github.io/strona-testowa/tags/"
                 />
   </url>
 </urlset>
