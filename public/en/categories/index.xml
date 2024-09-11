@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Polish School in Burnley</title>
-    <link>https://dwapir.github.io/strona-testowa/en/categories/</link>
+    <link>https://dwapir.github.io/en/categories/</link>
     <description>Recent content in Categories on Polish School in Burnley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-Pl</language><atom:link href="https://dwapir.github.io/strona-testowa/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-Pl</language><atom:link href="https://dwapir.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
