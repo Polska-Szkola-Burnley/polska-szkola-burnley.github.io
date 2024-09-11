@@ -2,7 +2,6 @@ title = "Polska Szkoła w Burnley"
 baseURL = "https://dwapir.github.io/strona-testowa/"
 languageCode = "pl-Pl"
 theme = "ananke"
-resourceDir = "../resources"
 
 DefaultContentLanguage = "pl"
 SectionPagesMenu = "main"
