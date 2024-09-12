@@ -1,0 +1,7 @@
+<div class="gallery">
+    {{ range .Params.images }}
+    <div class="gallery-item">
+      <img src="{{ . }}" alt="Gallery image">
+    </div>
+    {{ end }}
+</div>

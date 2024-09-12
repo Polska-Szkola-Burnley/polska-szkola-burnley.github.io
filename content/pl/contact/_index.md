@@ -10,4 +10,4 @@ type: page
 Jeśli masz pytania, skontaktuj się z nami za pomocą poniższych danych:
 
 **Adres e-mail:** [example@example.com](mailto:example@example.com)  
-**Telefon:** +48 07837 845007
+**Telefon:** +48 1234 56789098

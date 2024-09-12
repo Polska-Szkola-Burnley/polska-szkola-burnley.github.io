@@ -30,7 +30,7 @@ canonifyURL = true
 [params]
   text_color = ""
   author = "Maciej K"
-  favicon = "fryderyk_chopin_logo.png"
+  favicon = "/images/fryderyk_chopin_logo.png"
   site_logo = ""
   description = "Witamy w Polskiej Szkole Sobotniej w Burnley"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"

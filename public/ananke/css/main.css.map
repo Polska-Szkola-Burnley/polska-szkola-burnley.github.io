@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/maciek/polska-szkoła",
+	"sourceRoot": "/home/maciek/strona-testowa",
 	"sources": [
 		"ananke/css/main.css"
 	],
