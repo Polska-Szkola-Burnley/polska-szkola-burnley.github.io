@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.196:1313/en/contact/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/en/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/contact/"
+                href="https://dwapir.github.io/strona-testowa/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/contact/"
+                href="https://dwapir.github.io/strona-testowa/en/contact/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/en/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/"
+                href="https://dwapir.github.io/strona-testowa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/"
+                href="https://dwapir.github.io/strona-testowa/en/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/about/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/en/about/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/about/"
+                href="https://dwapir.github.io/strona-testowa/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/about/"
+                href="https://dwapir.github.io/strona-testowa/en/about/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/categories/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/categories/"
+                href="https://dwapir.github.io/strona-testowa/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/categories/"
+                href="https://dwapir.github.io/strona-testowa/en/categories/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/tags/</loc>
+    <loc>https://dwapir.github.io/strona-testowa/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/tags/"
+                href="https://dwapir.github.io/strona-testowa/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/tags/"
+                href="https://dwapir.github.io/strona-testowa/en/tags/"
                 />
   </url>
 </urlset>
