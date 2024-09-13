@@ -2,18 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2023/2024 on Polska Szkoła w Burnley</title>
-    <link>https://dwapir.github.io/strona-testowa/tags/2023/2024/</link>
+    <link>http://192.168.1.196:1313/tags/2023/2024/</link>
     <description>Recent content in 2023/2024 on Polska Szkoła w Burnley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
-    <lastBuildDate>Wed, 11 Sep 2024 18:54:08 +0100</lastBuildDate>
-    <atom:link href="https://dwapir.github.io/strona-testowa/tags/2023/2024/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Apel z okazji uchawalenia konstytucji 3 maja</title>
-      <link>https://dwapir.github.io/strona-testowa/wyda%C5%BCenia/apel_z_okazji_3_maja/</link>
-      <pubDate>Wed, 11 Sep 2024 18:54:08 +0100</pubDate>
-      <guid>https://dwapir.github.io/strona-testowa/wyda%C5%BCenia/apel_z_okazji_3_maja/</guid>
-      <description> </description>
-    </item>
+    <atom:link href="http://192.168.1.196:1313/tags/2023/2024/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
