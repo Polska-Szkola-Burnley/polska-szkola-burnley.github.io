@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kalendarz on Polska Szkoła w Burnley</title>
+    <link>https://dwapir.github.io/strona-testowa/calendar/</link>
+    <description>Recent content in Kalendarz on Polska Szkoła w Burnley</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://dwapir.github.io/strona-testowa/calendar/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
