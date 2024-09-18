@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://192.168.1.196:1313/en/contact/</loc>
+    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/contact/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/contact/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/contact/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/</loc>
+    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/about/</loc>
+    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/about/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/about/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/about/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/about/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/categories/</loc>
+    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/categories/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/categories/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/categories/"
                 />
   </url><url>
-    <loc>http://192.168.1.196:1313/en/tags/</loc>
+    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="http://192.168.1.196:1313/tags/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://192.168.1.196:1313/en/tags/"
+                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/tags/"
                 />
   </url>
 </urlset>

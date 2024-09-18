@@ -1,6 +1,7 @@
 ---
 title: "Kalendarz"
 date: 2024-09-17T17:37:39+01:00
+featured_image: 'images/budynek_szkoly2.jpg'
 draft: false
 ---
 

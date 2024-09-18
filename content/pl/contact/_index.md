@@ -1,16 +1,15 @@
 ---
 title: "Kontakt"
-featured_image: ''
-omit_header_text: true
-description: Bądzmy w kontakcie...
+featured_image: 'images/budynek_szkoly2.jpg'
+description: Bądźmy w kontakcie...
 date: 2024-09-09T20:33:42+01:00
 type: page
 ---
 
 Jeśli masz pytania, skontaktuj się z nami za pomocą poniższych danych:
 
-**Adres e-mail:** [example@example.com](mailto:example@example.com)  
-**Telefon:** +48 1234 56789098
+*Adres e-mail:* [mondep@wp.pl](mailto:mondep@wp.pl)  
+*Telefon:* +44 07837 845007
 
 Nasza siedziba:
 
