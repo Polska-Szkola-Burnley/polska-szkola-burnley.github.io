@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Witamy w Polskiej Szkole Sobotniej w Burnley on Polska Szkoła w Burnley</title>
-    <link>https://dwapir.github.io/strona-testowa/</link>
+    <link>http://192.168.1.196:1313/</link>
     <description>Recent content in Witamy w Polskiej Szkole Sobotniej w Burnley on Polska Szkoła w Burnley</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl</language>
     <lastBuildDate>Mon, 16 Sep 2024 19:21:21 +0100</lastBuildDate>
-    <atom:link href="https://dwapir.github.io/strona-testowa/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.196:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rozpoczęcie roku szkolnego 2024/2025</title>
-      <link>https://dwapir.github.io/strona-testowa/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</link>
+      <link>http://192.168.1.196:1313/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</link>
       <pubDate>Mon, 16 Sep 2024 19:21:21 +0100</pubDate>
-      <guid>https://dwapir.github.io/strona-testowa/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</guid>
+      <guid>http://192.168.1.196:1313/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</guid>
       <description> </description>
     </item>
     <item>
       <title>Apel z okazji uchawalenia konstytucji 3 maja</title>
-      <link>https://dwapir.github.io/strona-testowa/wydarzenia/apel_z_okazji_3_maja/</link>
+      <link>http://192.168.1.196:1313/wydarzenia/apel_z_okazji_3_maja/</link>
       <pubDate>Wed, 11 Sep 2024 18:54:08 +0100</pubDate>
-      <guid>https://dwapir.github.io/strona-testowa/wydarzenia/apel_z_okazji_3_maja/</guid>
+      <guid>http://192.168.1.196:1313/wydarzenia/apel_z_okazji_3_maja/</guid>
       <description> </description>
     </item>
   </channel>

@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://dwapir.github.io/strona-testowa/pl/sitemap.xml</loc>
+    <loc>http://192.168.1.196:1313/pl/sitemap.xml</loc>
     
       <lastmod>2024-09-17T17:37:39+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://dwapir.github.io/strona-testowa/en/sitemap.xml</loc>
+    <loc>http://192.168.1.196:1313/en/sitemap.xml</loc>
     
       <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     
