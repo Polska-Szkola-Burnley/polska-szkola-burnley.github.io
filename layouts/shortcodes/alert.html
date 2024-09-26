@@ -6,9 +6,3 @@
     {{ .Inner }}
   </div>
 {{ end }}
-
-<div class="debug-info">
-    Obecny czas: {{ $currentTime }}<br>
-    Czas wygaśnięcia: {{ $expirationTime }}<br>
-    Czy wygasło: {{ $currentTime.After $expirationTime }}
-  </div>
