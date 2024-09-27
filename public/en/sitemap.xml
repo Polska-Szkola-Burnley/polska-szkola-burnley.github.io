@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/contact/</loc>
+    <loc>https://polska-szkola-burnley.github.io/en/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/contact/"
+                href="https://polska-szkola-burnley.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/contact/"
+                href="https://polska-szkola-burnley.github.io/en/contact/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/</loc>
+    <loc>https://polska-szkola-burnley.github.io/en/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/"
+                href="https://polska-szkola-burnley.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/"
+                href="https://polska-szkola-burnley.github.io/en/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/about/</loc>
+    <loc>https://polska-szkola-burnley.github.io/en/about/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/about/"
+                href="https://polska-szkola-burnley.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/about/"
+                href="https://polska-szkola-burnley.github.io/en/about/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/categories/</loc>
+    <loc>https://polska-szkola-burnley.github.io/en/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/categories/"
+                href="https://polska-szkola-burnley.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/categories/"
+                href="https://polska-szkola-burnley.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/tags/</loc>
+    <loc>https://polska-szkola-burnley.github.io/en/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/tags/"
+                href="https://polska-szkola-burnley.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/polska-szkola-burnley/en/tags/"
+                href="https://polska-szkola-burnley.github.io/en/tags/"
                 />
   </url>
 </urlset>
