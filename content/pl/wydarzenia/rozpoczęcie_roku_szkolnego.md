@@ -4,5 +4,4 @@ date: 2024-09-16T19:21:21+01:00
 draft: false
 ---
 
-
-![obrazy](/images/rozpoczecie/rozpoczecie1.jpg)
+{{< galeria2 path="images/rozpoczecie/rozpoczecie1.jpg" >}}

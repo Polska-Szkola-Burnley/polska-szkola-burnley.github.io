@@ -9,3 +9,5 @@ menu: develop
 ---
 
 To info o nauczycielach.
+
+{{< galeria folder="/3maja/" >}}

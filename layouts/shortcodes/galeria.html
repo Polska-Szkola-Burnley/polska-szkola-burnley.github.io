@@ -1,0 +1,55 @@
+<div class="image-gallery">
+  {{ $folder := .Get "folder" }}
+  {{ $images := readDir (printf "static/images/%s" $folder) }}
+
+  {{ range $images }}
+    {{ if or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".gif") }}
+      <div class="image-item">
+        <img src="{{ printf "/images/%s/%s" $folder .Name }}" alt="{{ .Name }}" class="gallery-image" onclick="openImage(this.src)" style="max-width:200px;cursor:pointer;">
+      </div>
+    {{ end }}
+  {{ end }}
+</div>
+
+<script>
+function openImage(src) {
+  var modal = document.createElement("div");
+  modal.style.position = "fixed";
+  modal.style.top = "0";
+  modal.style.left = "0";
+  modal.style.width = "100%";
+  modal.style.height = "100%";
+  modal.style.backgroundColor = "rgba(0, 0, 0, 0.8)";
+  modal.style.display = "flex";
+  modal.style.alignItems = "center";
+  modal.style.justifyContent = "center";
+  modal.style.zIndex = "1000";
+
+  var img = document.createElement("img");
+  img.src = src;
+  img.style.maxWidth = "90%";
+  img.style.maxHeight = "90%";
+
+  modal.appendChild(img);
+
+  modal.onclick = function() {
+    modal.remove();
+  }
+
+  document.body.appendChild(modal);
+}
+</script>
+
+<style>
+.image-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.image-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+</style>
