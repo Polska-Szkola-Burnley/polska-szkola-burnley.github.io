@@ -5,16 +5,22 @@
     <link>https://polska-szkola-burnley.github.io/about/</link>
     <description>Recent content in O nas on Polska Szkoła w Burnley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl-Pl</language>
-    <lastBuildDate>Mon, 09 Sep 2024 14:00:00 +0000</lastBuildDate><atom:link href="https://polska-szkola-burnley.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl</language>
+    <lastBuildDate>Mon, 09 Sep 2024 14:00:00 +0000</lastBuildDate>
+    <atom:link href="https://polska-szkola-burnley.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Historia szkoły</title>
+      <link>https://polska-szkola-burnley.github.io/about/historia/</link>
+      <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
+      <guid>https://polska-szkola-burnley.github.io/about/historia/</guid>
+      <description>Polska Szkoła Sobotnia w Burnley rozpoczęła działalność we wrześniu 2009 roku. Na sierpniowym posiedzeniu Stowarzyszenia Polaków z Burnley i okolic podjęto jednomyślną decyzję o utworzeniu placówki oświatowej w celu krzewienia kultury polskiej. Uchwała była wynikiem troski obywateli Polski przebywających czasowo albo na stałe w Anglii o wspólne dobro i zachowanie języka ojczystego, który odgrywa bardzo ważną rolę w kształtowaniu kultury oraz wzmocnieniu więzi narodowych. Dlatego też nadrzędnym celem naszej szkoły jest krzewienie kultury polskiej.</description>
+    </item>
     <item>
       <title>Nauczyciele</title>
       <link>https://polska-szkola-burnley.github.io/about/nauczyciele/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
-      
       <guid>https://polska-szkola-burnley.github.io/about/nauczyciele/</guid>
       <description>To info o nauczycielach.</description>
     </item>
-    
   </channel>
 </rss>

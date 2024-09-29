@@ -37,6 +37,26 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://polska-szkola-burnley.github.io/tags/klasa-5-2023/2024/</loc>
+    <lastmod>2024-09-11T18:54:08+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://polska-szkola-burnley.github.io/tags/</loc>
+    <lastmod>2024-09-11T18:54:08+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://polska-szkola-burnley.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://polska-szkola-burnley.github.io/tags/"
+                />
+  </url><url>
     <loc>https://polska-szkola-burnley.github.io/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -51,6 +71,11 @@
                 hreflang="pl"
                 href="https://polska-szkola-burnley.github.io/contact/"
                 />
+  </url><url>
+    <loc>https://polska-szkola-burnley.github.io/about/historia/</loc>
+    <lastmod>2024-09-09T14:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url><url>
     <loc>https://polska-szkola-burnley.github.io/about/nauczyciele/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
@@ -84,24 +109,6 @@
                 rel="alternate"
                 hreflang="pl"
                 href="https://polska-szkola-burnley.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://polska-szkola-burnley.github.io/tags/klasa-5-2023/2024/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://polska-szkola-burnley.github.io/tags/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/tags/"
                 />
   </url>
 </urlset>

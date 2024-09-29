@@ -4,6 +4,7 @@ date: 2024-09-11T18:54:08+01:00
 draft: false
 author: Barbara K
 tags: ["klasa 5, 2023/2024"]
+type: post
 ---
 
 {{< galeria2 path="images/3maja/" >}}

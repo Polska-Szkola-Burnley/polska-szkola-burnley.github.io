@@ -1,0 +1,24 @@
+{{ define "main" }}
+{{ $paginator := .Paginate (where .Pages "Type" "post") }}
+
+  <article class="pa3 pa4-ns nested-copy-line-height">
+    <section class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy {{ $.Param "text_color" | default "mid-gray" }}">
+      {{- .Content -}}
+    </section>
+    
+  <!-- Dodajemy listę wpisów na dole strony głównej -->
+  <h2>Najświeższe wpisy</h2>
+  <ul>
+    {{ $posts := where .Site.RegularPages "Type" "post" }}
+    {{ range first 4 $posts }} <!-- Wyświetla 4 najnowszych postów -->
+      <li>
+        <div class="relative w-100 mb4">
+            {{ .Render "summary-with-image" }}
+        </div>      
+    </li>
+    {{ end }}
+  </ul>
+
+    {{- template "_internal/pagination.html" . -}}
+  </article>
+{{ end }}
