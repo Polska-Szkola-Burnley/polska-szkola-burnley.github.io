@@ -7,7 +7,7 @@
     </section>
     
   <!-- Dodajemy listę wpisów na dole strony głównej -->
-  <h2>Najświeższe wpisy</h2>
+  <h2>Wydarzenia</h2>
   <ul>
     {{ $posts := where .Site.RegularPages "Type" "post" }}
     {{ range first 4 $posts }} <!-- Wyświetla 4 najnowszych postów -->
