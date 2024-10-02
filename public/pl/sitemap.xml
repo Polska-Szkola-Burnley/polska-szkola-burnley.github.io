@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://polska-szkola-burnley.github.io/statut/</loc>
-    <lastmod>2024-10-02T14:00:00+00:00</lastmod>
+    <loc>https://polska-szkola-burnley.github.io/calendar/</loc>
+    <lastmod>2024-09-17T17:37:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://polska-szkola-burnley.github.io/</loc>
-    <lastmod>2024-10-02T14:00:00+00:00</lastmod>
+    <lastmod>2024-09-17T17:37:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -21,11 +21,6 @@
                 hreflang="pl"
                 href="https://polska-szkola-burnley.github.io/"
                 />
-  </url><url>
-    <loc>https://polska-szkola-burnley.github.io/calendar/</loc>
-    <lastmod>2024-09-17T17:37:39+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url><url>
     <loc>https://polska-szkola-burnley.github.io/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</loc>
     <lastmod>2024-09-16T19:21:21+01:00</lastmod>
@@ -115,5 +110,9 @@
                 hreflang="pl"
                 href="https://polska-szkola-burnley.github.io/categories/"
                 />
+  </url><url>
+    <loc>https://polska-szkola-burnley.github.io/statut/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
