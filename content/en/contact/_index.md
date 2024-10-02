@@ -8,7 +8,7 @@ type: "page"
 
 - If you have any questions, please contact us using the details below:
 
-**Email address:** [example@example.com](mailto:example@example.com)  
+**Email address:** [mondep@wp.pl](mailto:mondep@wp.pl)   
 **Telephone:** +48 07837 845007
 
 - Or just send a message:
