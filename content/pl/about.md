@@ -7,6 +7,7 @@ type: "page"
 featured_image: 'images/budynek_szkoly2.jpg'
 omit_header_text: true
 toc: true
+menu: main
 ---
 
 {{< toc >}}

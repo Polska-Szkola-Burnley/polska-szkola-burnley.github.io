@@ -2,106 +2,106 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://polska-szkola-burnley.github.io/calendar/</loc>
+    <loc>http://192.168.1.196:1313/calendar/</loc>
     <lastmod>2024-09-17T17:37:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/</loc>
+    <loc>http://192.168.1.196:1313/</loc>
     <lastmod>2024-09-17T17:37:39+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/"
+                href="http://192.168.1.196:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/"
+                href="http://192.168.1.196:1313/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</loc>
+    <loc>http://192.168.1.196:1313/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</loc>
     <lastmod>2024-09-16T19:21:21+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/wydarzenia/</loc>
+    <loc>http://192.168.1.196:1313/wydarzenia/</loc>
     <lastmod>2024-09-12T19:48:20+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/wydarzenia/apel_z_okazji_3_maja/</loc>
+    <loc>http://192.168.1.196:1313/wydarzenia/apel_z_okazji_3_maja/</loc>
     <lastmod>2024-09-11T18:54:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/tags/klasa-5-2023/2024/</loc>
+    <loc>http://192.168.1.196:1313/tags/klasa-5-2023/2024/</loc>
     <lastmod>2024-09-11T18:54:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/tags/</loc>
+    <loc>http://192.168.1.196:1313/tags/</loc>
     <lastmod>2024-09-11T18:54:08+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/tags/"
+                href="http://192.168.1.196:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/tags/"
+                href="http://192.168.1.196:1313/tags/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/contact/</loc>
+    <loc>http://192.168.1.196:1313/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/contact/"
+                href="http://192.168.1.196:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/contact/"
+                href="http://192.168.1.196:1313/contact/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/about/</loc>
+    <loc>http://192.168.1.196:1313/about/</loc>
     <lastmod>2024-09-09T14:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/about/"
+                href="http://192.168.1.196:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/about/"
+                href="http://192.168.1.196:1313/about/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/categories/</loc>
+    <loc>http://192.168.1.196:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/categories/"
+                href="http://192.168.1.196:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/categories/"
+                href="http://192.168.1.196:1313/categories/"
                 />
   </url><url>
-    <loc>https://polska-szkola-burnley.github.io/statut/</loc>
+    <loc>http://192.168.1.196:1313/statut/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
