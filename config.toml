@@ -10,10 +10,10 @@ Paginate = 3 #
 googleAnalytics = ""
 enableRobotsTXT = true
 canonifyURL = true
+toc = true
 
 [markup.goldmark.renderer]
   unsafe = true
-
 
 [languages]
   [languages.pl]
