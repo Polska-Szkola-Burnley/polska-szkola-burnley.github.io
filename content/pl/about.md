@@ -30,4 +30,4 @@ Tutaj pojawią się informacje o nauczycielach.
 
 ## O stronie
 
-Autorem strony jest [Maciej Kucharski](mailto:dwapir@gmail.com). Wykorzystano [https://gohugo.io/](https://gohugo.io/) oraz [Ananke Gohugo Theme](https://themes.gohugo.io/themes/gohugo-theme-ananke/). I hosting [Github Pages](https://pages.github.com/.
+Autorem strony jest [Maciej Kucharski](mailto:dwapir@gmail.com). Wykorzystano [https://gohugo.io/](https://gohugo.io/) oraz [Ananke Gohugo Theme](https://themes.gohugo.io/themes/gohugo-theme-ananke/). I hosting [Github Pages](https://pages.github.com/).
