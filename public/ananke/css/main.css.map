@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/home/maciek/repo/polska-szkola-burnley",
+	"sourceRoot": "/home/maciek/Repo/polska-szkola-burnley",
 	"sources": [
 		"ananke/css/main.css"
 	],

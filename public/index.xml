@@ -5,50 +5,65 @@
     <link>https://polska-szkola-burnley.github.io/</link>
     <description>Recent content in Witamy w Polskiej Szkole Sobotniej w Burnley on Polska Szkoła w Burnley</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pl</language>
-    <lastBuildDate>Tue, 17 Sep 2024 17:37:39 +0100</lastBuildDate>
-    <atom:link href="https://polska-szkola-burnley.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>pl-Pl</language>
+    <lastBuildDate>Mon, 16 Sep 2024 19:21:21 +0100</lastBuildDate><atom:link href="https://polska-szkola-burnley.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kalendarz</title>
       <link>https://polska-szkola-burnley.github.io/calendar/</link>
       <pubDate>Tue, 17 Sep 2024 17:37:39 +0100</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/calendar/</guid>
       <description></description>
     </item>
+    
     <item>
       <title>Rozpoczęcie roku szkolnego 2024/2025</title>
       <link>https://polska-szkola-burnley.github.io/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</link>
       <pubDate>Mon, 16 Sep 2024 19:21:21 +0100</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/wydarzenia/rozpocz%C4%99cie_roku_szkolnego/</guid>
       <description>Nowa przygoda z Polską Szkołą Sobotnią w Burnley rozpoczęta. Uważam Rok Szkolny 2024/25 za rozpoczęty.</description>
     </item>
+    
     <item>
       <title>Apel z okazji uchwalenia konstytucji 3 maja</title>
       <link>https://polska-szkola-burnley.github.io/wydarzenia/apel_z_okazji_3_maja/</link>
       <pubDate>Wed, 11 Sep 2024 18:54:08 +0100</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/wydarzenia/apel_z_okazji_3_maja/</guid>
       <description> </description>
     </item>
+    
     <item>
       <title>Kontakt</title>
       <link>https://polska-szkola-burnley.github.io/contact/</link>
       <pubDate>Mon, 09 Sep 2024 20:33:42 +0100</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/contact/</guid>
-      <description> Spis treści:&#xA;Email kontaktowy Telefon kontaktowy Formularz kontaktowy Adres szkoły Email kontaktowy Adres e-mail: mondep@wp.pl&#xA;Telefon kontaktowy Telefon: +44 07837 845007&#xA;Formularz kontaktowy Twoje Imię Adres Email Adres email jest wymagany Wiadomość Adres szkoły </description>
+      <description> Spis treści:
+Email kontaktowy Telefon kontaktowy Formularz kontaktowy Adres szkoły Email kontaktowy Adres e-mail: mondep@wp.pl
+Telefon kontaktowy Telefon: +44 07837 845007
+Formularz kontaktowy Twoje Imię Adres Email Adres email jest wymagany Wiadomość Adres szkoły </description>
     </item>
+    
     <item>
       <title>O nas</title>
       <link>https://polska-szkola-burnley.github.io/about/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/about/</guid>
-      <description>Spis treści:&#xA;Historia szkoły Nauczyciele O stronie Historia szkoły Polska Szkoła Sobotnia w Burnley rozpoczęła działalność we wrześniu 2009 roku. Na sierpniowym posiedzeniu Stowarzyszenia Polaków z Burnley i okolic podjęto jednomyślną decyzję o utworzeniu placówki oświatowej w celu krzewienia kultury polskiej. Uchwała była wynikiem troski obywateli Polski przebywających czasowo albo na stałe w Anglii o wspólne dobro i zachowanie języka ojczystego, który odgrywa bardzo ważną rolę w kształtowaniu kultury oraz wzmocnieniu więzi narodowych.</description>
+      <description>Spis treści:
+Historia szkoły Nauczyciele O stronie Historia szkoły Polska Szkoła Sobotnia w Burnley rozpoczęła działalność we wrześniu 2009 roku. Na sierpniowym posiedzeniu Stowarzyszenia Polaków z Burnley i okolic podjęto jednomyślną decyzję o utworzeniu placówki oświatowej w celu krzewienia kultury polskiej. Uchwała była wynikiem troski obywateli Polski przebywających czasowo albo na stałe w Anglii o wspólne dobro i zachowanie języka ojczystego, który odgrywa bardzo ważną rolę w kształtowaniu kultury oraz wzmocnieniu więzi narodowych.</description>
     </item>
+    
     <item>
       <title>Statut</title>
       <link>https://polska-szkola-burnley.github.io/statut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>https://polska-szkola-burnley.github.io/statut/</guid>
       <description> </description>
     </item>
+    
   </channel>
 </rss>

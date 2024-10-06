@@ -9,7 +9,7 @@ wyswietlaj_do: "2024-10-06T21:00:00+01:00"
 
 # Witamy na nowej stronie szkoły.
 
-Otworzyliśmy nową stronę internetową naszej szkoły! Znajdziecie na niej wiele przydatnych informacji, takich jak kalendarz wydarzeń, aktualności oraz dane kontaktowe. Zachęcamy również do [przesyłania](mailto:dwapir@gmail.com) sugestii dotyczących nowych funkcjonalności – Wasze pomysły są dla nas bardzo cenne!
+Uruchomiliśmy nową stronę internetową naszej szkoły! Znajdziecie na niej wiele przydatnych informacji, takich jak kalendarz wydarzeń, aktualności oraz dane kontaktowe. Zachęcamy również do [przesyłania](mailto:dwapir@gmail.com) sugestii dotyczących nowych funkcjonalności – Wasze pomysły są dla nas bardzo cenne!
 
 {{% /alert %}}
 
