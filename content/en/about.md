@@ -27,3 +27,7 @@ WE INVITE YOU!
 ## Teachers
 
 There will be information about teachers here.
+
+## About the page
+
+The author of the site is [Maciej Kucharski](mailto:dwapir@gmail.com). Was used [https://gohugo.io/](https://gohugo.io/)and the theme [Ananke Gohugo Theme](https://themes.gohugo.io/themes/gohugo-theme-ananke/) and hosting [Github Pages](https://pages.github.com/)

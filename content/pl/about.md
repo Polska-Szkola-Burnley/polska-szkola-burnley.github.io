@@ -27,3 +27,7 @@ ZAPRASZAMY!
 ## Nauczyciele
 
 Tutaj pojawią się informacje o nauczycielach.
+
+## O stronie
+
+The website was created by [Maciej Kucharski](mailto:dwapir@gmail.com). It uses [https://gohugo.io/](https://gohugo.io/) with the [Ananke Gohugo Theme](https://themes.gohugo.io/themes/gohugo-theme-ananke/) and is hosted on [Github Pages](https://pages.github.com/)
