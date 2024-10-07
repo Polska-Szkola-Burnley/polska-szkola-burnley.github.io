@@ -10,11 +10,9 @@ menu: main
 
 {{< toc >}}
 
-## Email kontaktowy
+## Dane kontaktowe
 
 *Adres e-mail:* [mondep@wp.pl](mailto:mondep@wp.pl)
-
-## Telefon kontaktowy
 
 *Telefon:* +44 07837 845007
 

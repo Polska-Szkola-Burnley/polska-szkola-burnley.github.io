@@ -10,11 +10,9 @@ menu: main
 
 {{< toc >}}
 
-## Contact email
+## Contact detail
 
 *Adres e-mail:* [mondep@wp.pl](mailto:mondep@wp.pl)
-
-## Contact phone
 
 *Telefon:* +44 07837 845007
 

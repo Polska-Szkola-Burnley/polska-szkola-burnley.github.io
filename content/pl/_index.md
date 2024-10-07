@@ -2,7 +2,7 @@
 title: Witamy w Polskiej Szkole Sobotniej w Burnley
 featured_image: 'images/budynek_szkoly2.jpg'
 description: imienia Fryderyka Chopina
-wyswietlaj_do: "2024-10-06T21:00:00+01:00"
+wyswietlaj_do: "2024-10-20T21:00:00+01:00"
 ---
 
 {{% alert %}}

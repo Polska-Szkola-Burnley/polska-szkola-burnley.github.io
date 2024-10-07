@@ -17,6 +17,21 @@
                 href="https://polska-szkola-burnley.github.io/en/calendar/"
                 />
   </url><url>
+    <loc>https://polska-szkola-burnley.github.io/en/</loc>
+    <lastmod>2024-09-17T17:37:39+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://polska-szkola-burnley.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://polska-szkola-burnley.github.io/en/"
+                />
+  </url><url>
     <loc>https://polska-szkola-burnley.github.io/en/contact/</loc>
     <lastmod>2024-09-09T20:33:42+01:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -73,20 +88,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://polska-szkola-burnley.github.io/en/tags/"
-                />
-  </url><url>
-    <loc>https://polska-szkola-burnley.github.io/en/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pl"
-                href="https://polska-szkola-burnley.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://polska-szkola-burnley.github.io/en/"
                 />
   </url>
 </urlset>
