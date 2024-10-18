@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Polska Szokła w Burnley</title>
-    <link>https://example.org/authors/</link>
+    <link>https://polska-szkola-burnley.github.io/authors/</link>
     <description>Recent content in Authors on Polska Szokła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
-    <atom:link href="https://example.org/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://polska-szkola-burnley.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://example.org/authors/barbara-kucharska/</link>
+      <link>https://polska-szkola-burnley.github.io/authors/barbara-kucharska/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/authors/barbara-kucharska/</guid>
+      <guid>https://polska-szkola-burnley.github.io/authors/barbara-kucharska/</guid>
       <description>&lt;p&gt;informacje o barbara k&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://example.org/authors/monika-deptu%C5%9B/</link>
+      <link>https://polska-szkola-burnley.github.io/authors/monika-deptu%C5%9B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.org/authors/monika-deptu%C5%9B/</guid>
+      <guid>https://polska-szkola-burnley.github.io/authors/monika-deptu%C5%9B/</guid>
       <description>&lt;p&gt;info o monika deptuś&lt;/p&gt;</description>
     </item>
   </channel>

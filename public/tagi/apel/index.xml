@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apel on Polska Szokła w Burnley</title>
-    <link>https://example.org/tagi/apel/</link>
+    <link>https://polska-szkola-burnley.github.io/tagi/apel/</link>
     <description>Recent content in Apel on Polska Szokła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://example.org/tagi/apel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://polska-szkola-burnley.github.io/tagi/apel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apel z okazji uchwalenia konstyrucji 3-maja</title>
-      <link>https://example.org/blog/apel_z_okazji_3_maja/</link>
+      <link>https://polska-szkola-burnley.github.io/blog/apel_z_okazji_3_maja/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://example.org/blog/apel_z_okazji_3_maja/</guid>
+      <guid>https://polska-szkola-burnley.github.io/blog/apel_z_okazji_3_maja/</guid>
       <description></description>
     </item>
   </channel>

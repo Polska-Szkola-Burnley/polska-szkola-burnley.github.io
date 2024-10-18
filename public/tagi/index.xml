@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tagi on Polska Szokła w Burnley</title>
-    <link>https://example.org/tagi/</link>
+    <link>https://polska-szkola-burnley.github.io/tagi/</link>
     <description>Recent content in Tagi on Polska Szokła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate>
-    <atom:link href="https://example.org/tagi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://polska-szkola-burnley.github.io/tagi/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apel</title>
-      <link>https://example.org/tagi/apel/</link>
+      <link>https://polska-szkola-burnley.github.io/tagi/apel/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://example.org/tagi/apel/</guid>
+      <guid>https://polska-szkola-burnley.github.io/tagi/apel/</guid>
       <description></description>
     </item>
     <item>
       <title>Uroczystość</title>
-      <link>https://example.org/tagi/uroczysto%C5%9B%C4%87/</link>
+      <link>https://polska-szkola-burnley.github.io/tagi/uroczysto%C5%9B%C4%87/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      <guid>https://example.org/tagi/uroczysto%C5%9B%C4%87/</guid>
+      <guid>https://polska-szkola-burnley.github.io/tagi/uroczysto%C5%9B%C4%87/</guid>
       <description></description>
     </item>
   </channel>
