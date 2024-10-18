@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Polska Szokła w Burnley</title>
+    <link>https://example.org/blog/</link>
+    <description>Recent content in Blogs on Polska Szokła w Burnley</description>
+    <generator>Hugo</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Tue, 15 Oct 2024 22:30:13 +0100</lastBuildDate>
+    <atom:link href="https://example.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dzień Nauczyciela</title>
+      <link>https://example.org/blog/dzien-nauczyciela/</link>
+      <pubDate>Tue, 15 Oct 2024 22:30:13 +0100</pubDate>
+      <guid>https://example.org/blog/dzien-nauczyciela/</guid>
+      <description>&lt;p&gt;Wczorajszy dzień w Polskiej Szkole Sobotniej w Burnley był wyjątkowy z kilku powodów. Na uroczystości z okazji Dnia Edukacji Narodowej świętowaliśmy Dzień Nauczyciela, przyjmowaliśmy pierwszoklasistów i nowych uczniów do braci uczniowskiej oraz sprzedawaliśmy ciasta, z czego dochód przeznaczony będzie na rodziny, które straciły swój dobytek w ostatniej powodzi. Niespodzianką był tort z okazji 15-lecia założenia naszej placówki. Wczorajszy dzień okazał się wspólnym sukcesem.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rozpoczęcie roku szkolnego 2024/2025</title>
+      <link>https://example.org/blog/rozpocz%C4%99cie_roku_szkolnego/</link>
+      <pubDate>Mon, 16 Sep 2024 21:29:20 +0200</pubDate>
+      <guid>https://example.org/blog/rozpocz%C4%99cie_roku_szkolnego/</guid>
+      <description>&lt;p&gt;Nowa przygoda z Polską Szkołą Sobotnią w Burnley rozpoczęta. Uważam Rok Szkolny 2024/25 za rozpoczęty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apel z okazji uchwalenia konstyrucji 3-maja</title>
+      <link>https://example.org/blog/apel_z_okazji_3_maja/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://example.org/blog/apel_z_okazji_3_maja/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

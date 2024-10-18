@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wydarzenia on Polska Szokła w Burnley</title>
+    <link>https://example.org/kategoria/wydarzenia/</link>
+    <description>Recent content in Wydarzenia on Polska Szokła w Burnley</description>
+    <generator>Hugo</generator>
+    <language>pl_PL</language>
+    <lastBuildDate>Mon, 16 Sep 2024 21:29:20 +0200</lastBuildDate>
+    <atom:link href="https://example.org/kategoria/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rozpoczęcie roku szkolnego 2024/2025</title>
+      <link>https://example.org/blog/rozpocz%C4%99cie_roku_szkolnego/</link>
+      <pubDate>Mon, 16 Sep 2024 21:29:20 +0200</pubDate>
+      <guid>https://example.org/blog/rozpocz%C4%99cie_roku_szkolnego/</guid>
+      <description>&lt;p&gt;Nowa przygoda z Polską Szkołą Sobotnią w Burnley rozpoczęta. Uważam Rok Szkolny 2024/25 za rozpoczęty.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Apel z okazji uchwalenia konstyrucji 3-maja</title>
+      <link>https://example.org/blog/apel_z_okazji_3_maja/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      <guid>https://example.org/blog/apel_z_okazji_3_maja/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

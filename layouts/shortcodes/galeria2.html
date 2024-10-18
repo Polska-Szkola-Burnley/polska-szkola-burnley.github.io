@@ -1,0 +1,89 @@
+<div class="image-gallery">
+    {{ $path := .Get "path" }}
+    
+    <!-- Wyświetlanie podanej ścieżki w celu debugowania -->
+    <!-- <p>Podana ścieżka: {{ $path }}</p> -->
+    
+    <!-- Sprawdzamy, czy podana ścieżka jest plikiem -->
+    {{ $isFile := or (strings.HasSuffix $path ".jpg") (strings.HasSuffix $path ".png") (strings.HasSuffix $path ".gif") }}
+  
+    {{ if $isFile }}
+      <!-- Jeśli to pojedynczy plik, wyświetl go -->
+      <div class="image-item">
+        <img src="{{ printf "/%s" $path }}" alt="{{ $path }}" class="gallery-image" onclick="openImage(this.src)" style="width:100%; max-width:1000px; cursor:pointer;">
+      </div>
+    {{ else }}
+      <!-- Jeśli to katalog, wyświetl wszystkie obrazy w katalogu -->
+      {{ $fullPath := printf "static/%s" $path }}
+      {{ if fileExists $fullPath }}
+        <!-- <p>Katalog istnieje: {{ $fullPath }}</p> -->
+        {{ $images := readDir $fullPath }}
+        {{ if gt (len $images) 0 }}
+          {{ range $images }}
+            {{ if or (strings.HasSuffix .Name ".jpg") (strings.HasSuffix .Name ".png") (strings.HasSuffix .Name ".gif") }}
+              <div class="image-item">
+                <img src="{{ printf "/%s/%s" $path .Name }}" alt="{{ .Name }}" class="gallery-image" onclick="openImage(this.src)" style="width:100%; max-width:1000px; cursor:pointer;">
+              </div>
+            {{ end }}
+          {{ end }}
+        {{ else }}
+          <p>Brak obrazów w katalogu: {{ $fullPath }}</p>
+        {{ end }}
+      {{ else }}
+        <p>Katalog nie istnieje: {{ $fullPath }}</p>
+      {{ end }}
+    {{ end }}
+  </div>
+  
+  <!-- Skrypt do obsługi powiększenia obrazu -->
+  <script>
+  function openImage(src) {
+    var modal = document.createElement("div");
+    modal.style.position = "fixed";
+    modal.style.top = "0";
+    modal.style.left = "0";
+    modal.style.width = "100%";
+    modal.style.height = "100%";
+    modal.style.backgroundColor = "rgba(0, 0, 0, 0.8)";
+    modal.style.display = "flex";
+    modal.style.alignItems = "center";
+    modal.style.justifyContent = "center";
+    modal.style.zIndex = "1000";
+  
+    var img = document.createElement("img");
+    img.src = src;
+    img.style.maxWidth = "90%";
+    img.style.maxHeight = "90%";
+    img.style.boxShadow = "0 0 10px rgba(255, 255, 255, 0.5)";
+  
+    modal.appendChild(img);
+  
+    modal.onclick = function() {
+      modal.remove();
+    }
+  
+    document.body.appendChild(modal);
+  }
+  </script>
+  
+  <!-- Style do galerii -->
+  <style>
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .image-item img {
+    width: 100%;
+    max-width: 1000px; /* Maksymalna szerokość obrazu */
+    height: auto; /* Automatyczne dopasowanie wysokości */
+    cursor: pointer; /* Wskaźnik kursora */
+    transition: transform 0.3s ease; /* Efekt przejścia */
+  }
+  
+  .image-item img:hover {
+    transform: scale(1.05); /* Powiększenie przy najechaniu */
+  }
+  </style>
+  

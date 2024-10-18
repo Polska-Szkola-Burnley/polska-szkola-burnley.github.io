@@ -1,0 +1,118 @@
+baseURL = 'https://example.org/'
+languageCode = 'pl_PL'
+title = 'Polska Szokła w Burnley'
+defaultContentLanguage = "pl"
+
+theme = 'hugo-universal-theme'
+summaryLength = 20
+
+[params]
+    facebook_site = "https://www.facebook.com/polskaszkola.wburnley"
+    address = """<p class="text-uppercase"><strong>Sir John Thursby Community College</strong>
+        <br>Burnley BB10 2AT
+        <br>England
+        <br>
+        <strong>Great Britain</strong>
+      </p>
+      """
+    disabled_logo = false
+    logo_text = "Polska Szkoła Burnley"
+    formspree_action = "https://formspree.io/f/manwrryv"
+    contact_form_ajax = false
+    about_us = "<p>Polska Szkoła w Burnley imienia Fryderyka Chopina</p>"
+    logo = "images/fryderyk_chopin_logo.png"
+    logo_small = "images/fryderyk_chopin_logo.png"  
+    date_format = "02.01.2006"
+    viewMorePostLink = "/blog/"
+    mainSections = ["blog"]
+
+[params.recent_posts]
+    enable = true
+    title = "Ostatnie wydarzenia"
+    hide_summary = false
+
+[params.footer.recent_posts]
+    enable = false
+
+
+[params.carouselHomepage]
+    # All carousel items are defined in their own files. You can find example items
+    # at 'exampleSite/data/carousel'.
+    # For more information take a look at the README.
+    enable = true
+    auto_play = true
+    slide_speed = 2000
+    pagination_speed = 1000
+
+[menu]
+# Main menu
+[[menu.main]]
+    name       = "Start"
+    identifier = "menu.start"
+    url        = "/"
+    weight     = 1
+    
+[[menue.main]]
+    name       = "O nas"
+    identifier = "o nas"
+    url        = "/"
+    weight     = 2
+[[menu.main]]
+    name       = "Historia szkoły"
+    url        = "/about/historia_szkoly"
+    weight     = 1
+    parent     = "o nas"
+[[menu.main]]
+    name       = "Nauczyciele"
+    url        = "/about/nauczyciele"
+    weight     = 2
+    parent     = "o nas"
+[[menu.main]]
+    name       = "O stronie"
+    url        = "/about/o_stronie"
+    weight     = 5
+    parent     = "o nas"    
+
+[[menu.main]]
+    identifier = "dla rodziców"
+    name       = "Dla rodziców"
+    url        = "/"
+[[menu.main]]
+    name       = "Kalendarz"
+    url        = "/calendar"
+    weight     = 15
+    parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Statut"
+    url        = "/statut"
+    weight     = 20
+    parent     = "dla rodziców"
+
+[[menu.main]]
+    identifier = "contact"
+    name       = "Kontakt"
+    url        = "/contact/"
+    weight     = 300
+    
+[[menu.main]]
+    name       = "Wydarzenia"
+    url        = "/blog/"
+    weight     = 10
+
+
+[[menu.topbar]]
+    weight = 1
+    name = "Facebook"
+    url = "www.facebook.com/polskaszkola.wburnley"
+    pre = "<i class='fab fa-2x fa-facebook'></i>"
+
+[params.topbar]
+    enable = true
+    text = "<p>Skontaktuj się z nami +44 07837 845007 lub mondep@wp.pl</p>"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[taxonomies]
+  category = "kategoria"
+  tag = "tagi"
