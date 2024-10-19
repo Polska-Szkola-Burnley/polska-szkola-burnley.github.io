@@ -7,7 +7,7 @@ theme = 'hugo-universal-theme'
 summaryLength = 20
 
 [params]
-    facebook_site = "https://www.facebook.com/polskaszkola.wburnley"
+    facebook_site = "www.facebook.com/polskaszkola.wburnley"
     address = """<p class="text-uppercase"><strong>Sir John Thursby Community College</strong>
         <br>Burnley BB10 2AT
         <br>England
@@ -108,7 +108,7 @@ summaryLength = 20
 [[menu.topbar]]
     weight = 1
     name = "Facebook"
-    url = "www.facebook.com/polskaszkola.wburnley"
+    url = "https://www.facebook.com/polskaszkola.wburnley"
     pre = "<i class='fab fa-2x fa-facebook'></i>"
 
 [params.topbar]
