@@ -1,5 +1,5 @@
 +++
-title = 'Dzień Nauczyciela'
+title = 'Dzień Edukacji Narodowej'
 date = 2024-10-15T22:30:13+01:00
 draft = false
 authors = ["Monika Deptuś"]
