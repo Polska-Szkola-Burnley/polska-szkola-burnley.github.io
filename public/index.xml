@@ -72,6 +72,13 @@
       <description>&lt;p&gt;info o monika deptuś&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Dofinansowanie</title>
+      <link>https://polska-szkola-burnley.github.io/dofinansowanie1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://polska-szkola-burnley.github.io/dofinansowanie1/</guid>
+      <description>&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;  &#xA;    &#xA;      &#xA;      &lt;div class=&#34;image-item&#34;&gt;&#xA;        &lt;img src=&#34;https://polska-szkola-burnley.github.io/images/dofinansowanie/dofinansowanie1.jpg&#34; alt=&#34;images/dofinansowanie/dofinansowanie1.jpg&#34; class=&#34;gallery-image&#34; onclick=&#34;openImage(this.src)&#34; style=&#34;width:100%; max-width:1000px; cursor:pointer;&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &lt;/div&gt;&#xA;  &#xA;  &#xA;  &lt;script&gt;&#xA;  function openImage(src) {&#xA;    var modal = document.createElement(&#34;div&#34;);&#xA;    modal.style.position = &#34;fixed&#34;;&#xA;    modal.style.top = &#34;0&#34;;&#xA;    modal.style.left = &#34;0&#34;;&#xA;    modal.style.width = &#34;100%&#34;;&#xA;    modal.style.height = &#34;100%&#34;;&#xA;    modal.style.backgroundColor = &#34;rgba(0, 0, 0, 0.8)&#34;;&#xA;    modal.style.display = &#34;flex&#34;;&#xA;    modal.style.alignItems = &#34;center&#34;;&#xA;    modal.style.justifyContent = &#34;center&#34;;&#xA;    modal.style.zIndex = &#34;1000&#34;;&#xA;  &#xA;    var img = document.createElement(&#34;img&#34;);&#xA;    img.src = src;&#xA;    img.style.maxWidth = &#34;90%&#34;;&#xA;    img.style.maxHeight = &#34;90%&#34;;&#xA;    img.style.boxShadow = &#34;0 0 10px rgba(255, 255, 255, 0.5)&#34;;&#xA;  &#xA;    modal.appendChild(img);&#xA;  &#xA;    modal.onclick = function() {&#xA;      modal.remove();&#xA;    }&#xA;  &#xA;    document.body.appendChild(modal);&#xA;  }&#xA;  &lt;/script&gt;&#xA;  &#xA;  &#xA;  &lt;style&gt;&#xA;  .image-gallery {&#xA;    display: flex;&#xA;    flex-wrap: wrap;&#xA;    gap: 10px;&#xA;  }&#xA;  &#xA;  .image-item img {&#xA;    width: 100%;&#xA;    max-width: 1000px;  &#xA;    height: auto;  &#xA;    cursor: pointer;  &#xA;    transition: transform 0.3s ease;  &#xA;  }&#xA;  &#xA;  .image-item img:hover {&#xA;    transform: scale(1.05);  &#xA;  }&#xA;  &lt;/style&gt;</description>
+    </item>
+    <item>
       <title>Kontakt</title>
       <link>https://polska-szkola-burnley.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

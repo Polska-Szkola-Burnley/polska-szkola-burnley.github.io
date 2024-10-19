@@ -1,5 +1,8 @@
 weight: 2
 title: "Witamy na nowej stronie szkoły"
-description: Uruchomiliśmy nową stronę internetową naszej szkoły! Znajdziecie na niej wiele przydatnych informacji, takich jak kalendarz wydarzeń, aktualności oraz dane kontaktowe. Zachęcamy również do [przesyłania](mailto:dwapir@gmail.com) sugestii dotyczących nowych funkcjonalności – Wasze pomysły są dla nas bardzo cenne!
+description: >
+  <span style="color: white;">
+    Uruchomiliśmy nową stronę internetową naszej szkoły! Znajdziecie na niej wiele przydatnych informacji, takich jak kalendarz wydarzeń, aktualności oraz dane kontaktowe. Zachęcamy również do przesyłania sugestii dotyczących nowych funkcjonalności – Wasze pomysły są dla nas bardzo cenne!
+  </span>
 image: "images/budynek_szkoly2.jpg"
 href: ""
