@@ -113,7 +113,11 @@ summaryLength = 20
 
 [params.topbar]
     enable = true
-    text = "<p>Skontaktuj się z nami +44 07837 845007 lub mondep@wp.pl</p>"
+    text ="""<p class="hidden-sm hidden-xs">Skontaktuj sié z nami +44 07837 845007 lub mondep@wp.pl.</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+44 07837 845007" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+      <a href="mailto:mondep@wp.pl" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      </p>
+      """
 
 [markup.goldmark.renderer]
   unsafe = true
