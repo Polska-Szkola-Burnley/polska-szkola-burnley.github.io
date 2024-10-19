@@ -87,6 +87,11 @@ summaryLength = 20
     url        = "/statut"
     weight     = 20
     parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Dofinansowanie"
+    url        = "/dofinansowanie1"
+    weight     = 25
+    parent     = "dla rodziców"
 
 [[menu.main]]
     identifier = "contact"
