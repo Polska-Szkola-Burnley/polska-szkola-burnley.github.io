@@ -55,7 +55,7 @@ summaryLength = 20
 [[menue.main]]
     name       = "O nas"
     identifier = "o nas"
-    url        = "/"
+    url        = ""
     weight     = 2
 [[menu.main]]
     name       = "Historia szkoły"
@@ -76,7 +76,7 @@ summaryLength = 20
 [[menu.main]]
     identifier = "dla rodziców"
     name       = "Dla rodziców"
-    url        = "/"
+    url        = ""
 [[menu.main]]
     name       = "Kalendarz"
     url        = "/calendar"
@@ -96,12 +96,12 @@ summaryLength = 20
 [[menu.main]]
     identifier = "contact"
     name       = "Kontakt"
-    url        = "/contact/"
-    weight     = 300
+    url        = "/contact"
+    weight     = 50
     
 [[menu.main]]
     name       = "Wydarzenia"
-    url        = "/blog/"
+    url        = "/blog"
     weight     = 10
 
 
@@ -125,3 +125,11 @@ summaryLength = 20
 [taxonomies]
   category = "kategoria"
   tag = "tagi"
+
+[params.clients]
+    enable = true
+    # All clients are defined in their own files. You can find example items
+    # at 'exampleSite/data/clients'.
+    # For more information take a look at the README.
+    title = "Sponsorzy"
+    subtitle = ""
