@@ -72,6 +72,11 @@ summaryLength = 20
     url        = "/about/o_stronie"
     weight     = 5
     parent     = "o nas"    
+[[menu.main]]
+    name       = "Rada rodziców"
+    url        = "/about/rada-rodzicow"
+    weight     = 4
+    parent     = "o nas"    
 
 [[menu.main]]
     identifier = "dla rodziców"
