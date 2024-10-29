@@ -26,6 +26,74 @@ summaryLength = 20
     viewMorePostLink = "/blog/"
     mainSections = ["blog"]
 
+
+[menu]
+# Main menu
+    
+[[menu.main]]
+    name       = "Start"
+    identifier = "menu.start"
+    url        = "/"
+    weight     = 1
+    
+[[menu.main]]
+    name       = "O nas"
+    identifier = "o nas"
+    url        = ""
+    weight     = 3
+[[menu.main]]
+    name       = "Historia szkoły"
+    url        = "/about/historia_szkoly"
+    weight     = 1
+    parent     = "o nas"
+[[menu.main]]
+    name       = "Nauczyciele"
+    url        = "/about/nauczyciele"
+    weight     = 2
+    parent     = "o nas"
+[[menu.main]]
+    name       = "O stronie"
+    url        = "/about/o_stronie"
+    weight     = 3
+    parent     = "o nas"    
+[[menu.main]]
+    name       = "Rada rodziców"
+    url        = "/about/rada-rodzicow"
+    weight     = 4
+    parent     = "o nas"    
+
+[[menu.main]]
+    name       = "Dla rodziców"
+    identifier = "dla rodziców"
+    weight     = 3
+    url        = ""
+[[menu.main]]
+    name       = "Kalendarz"
+    url        = "/calendar"
+    weight     = 1
+    parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Statut"
+    url        = "/statut"
+    weight     = 2
+    parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Dofinansowanie"
+    url        = "/dofinansowanie1"
+    weight     = 3
+    parent     = "dla rodziców"
+    
+[[menu.main]]
+    name       = "Wydarzenia"
+    url        = "/blog"
+    weight     = 2
+
+[[menu.main]]
+    name       = "Kontakt"
+    identifier = "contact"
+    url        = "/contact"
+    weight     = 9
+
 [params.recent_posts]
     enable = true
     title = "Ostatnie wydarzenia"
@@ -43,72 +111,6 @@ summaryLength = 20
     auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
-
-[menu]
-# Main menu
-[[menu.main]]
-    name       = "Start"
-    identifier = "menu.start"
-    url        = "/"
-    weight     = 1
-    
-[[menue.main]]
-    name       = "O nas"
-    identifier = "o nas"
-    url        = ""
-    weight     = 2
-[[menu.main]]
-    name       = "Historia szkoły"
-    url        = "/about/historia_szkoly"
-    weight     = 1
-    parent     = "o nas"
-[[menu.main]]
-    name       = "Nauczyciele"
-    url        = "/about/nauczyciele"
-    weight     = 2
-    parent     = "o nas"
-[[menu.main]]
-    name       = "O stronie"
-    url        = "/about/o_stronie"
-    weight     = 5
-    parent     = "o nas"    
-[[menu.main]]
-    name       = "Rada rodziców"
-    url        = "/about/rada-rodzicow"
-    weight     = 4
-    parent     = "o nas"    
-
-[[menu.main]]
-    identifier = "dla rodziców"
-    name       = "Dla rodziców"
-    url        = ""
-[[menu.main]]
-    name       = "Kalendarz"
-    url        = "/calendar"
-    weight     = 15
-    parent     = "dla rodziców"
-[[menu.main]]
-    name       = "Statut"
-    url        = "/statut"
-    weight     = 20
-    parent     = "dla rodziców"
-[[menu.main]]
-    name       = "Dofinansowanie"
-    url        = "/dofinansowanie1"
-    weight     = 25
-    parent     = "dla rodziców"
-
-[[menu.main]]
-    identifier = "contact"
-    name       = "Kontakt"
-    url        = "/contact"
-    weight     = 50
-    
-[[menu.main]]
-    name       = "Wydarzenia"
-    url        = "/blog"
-    weight     = 10
-
 
 [[menu.topbar]]
     weight = 1
