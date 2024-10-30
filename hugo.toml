@@ -54,12 +54,12 @@ summaryLength = 20
 [[menu.main]]
     name       = "O stronie"
     url        = "/about/o_stronie"
-    weight     = 3
+    weight     = 4
     parent     = "o nas"    
 [[menu.main]]
     name       = "Rada rodziców"
     url        = "/about/rada-rodzicow"
-    weight     = 4
+    weight     = 3
     parent     = "o nas"    
 
 [[menu.main]]
@@ -81,6 +81,16 @@ summaryLength = 20
     name       = "Dofinansowanie"
     url        = "/dofinansowanie1"
     weight     = 3
+    parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Jak zapisać dziecko do szkoły"
+    url        = "/jak-zapisac"
+    weight     = 4
+    parent     = "dla rodziców"
+[[menu.main]]
+    name       = "Płatności"
+    url        = "/platnosci"
+    weight     = 5
     parent     = "dla rodziców"
     
 [[menu.main]]
