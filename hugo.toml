@@ -37,7 +37,7 @@ summaryLength = 20
     weight     = 1
     
 [[menu.main]]
-    name       = "O nas"
+    name       = "O szkole"
     identifier = "o nas"
     url        = ""
     weight     = 3
@@ -47,19 +47,29 @@ summaryLength = 20
     weight     = 1
     parent     = "o nas"
 [[menu.main]]
+    name       = "Statut"
+    url        = "/statut"
+    weight     = 2
+    parent     = "o nas"
+[[menu.main]]
     name       = "Nauczyciele"
     url        = "/about/nauczyciele"
-    weight     = 2
+    weight     = 3
+    parent     = "o nas"
+[[menu.main]]
+    name       = "Dofinansowanie"
+    url        = "/dofinansowanie1"
+    weight     = 5
     parent     = "o nas"
 [[menu.main]]
     name       = "O stronie"
     url        = "/about/o_stronie"
-    weight     = 4
+    weight     = 6
     parent     = "o nas"    
 [[menu.main]]
     name       = "Rada rodziców"
     url        = "/about/rada-rodzicow"
-    weight     = 3
+    weight     = 4
     parent     = "o nas"    
 
 [[menu.main]]
@@ -71,16 +81,6 @@ summaryLength = 20
     name       = "Kalendarz"
     url        = "/calendar"
     weight     = 1
-    parent     = "dla rodziców"
-[[menu.main]]
-    name       = "Statut"
-    url        = "/statut"
-    weight     = 2
-    parent     = "dla rodziców"
-[[menu.main]]
-    name       = "Dofinansowanie"
-    url        = "/dofinansowanie1"
-    weight     = 3
     parent     = "dla rodziców"
 [[menu.main]]
     name       = "Jak zapisać dziecko do szkoły"
