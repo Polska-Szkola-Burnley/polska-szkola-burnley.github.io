@@ -25,6 +25,8 @@ summaryLength = 20
     date_format = "02.01.2006"
     viewMorePostLink = "/blog/"
     mainSections = ["blog"]
+    copyright = "© Polska Szkoła w Burnley 2024"
+
 
 
 [menu]
