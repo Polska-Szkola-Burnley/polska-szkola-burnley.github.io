@@ -26,6 +26,7 @@ summaryLength = 20
     viewMorePostLink = "/blog/"
     mainSections = ["blog"]
     copyright = "© Polska Szkoła w Burnley 2024"
+    css = ["css/custom.css"]
 
 
 

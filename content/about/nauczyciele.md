@@ -6,4 +6,4 @@ draft: false
 type: "page"
 ---
 
-To pojawi się info o nauczycielach.
+- [mgr Monika Deptuś](/authors/mgr-monika-deptuś/), dyrektor szkoły, wychowawca klasy 5, 
