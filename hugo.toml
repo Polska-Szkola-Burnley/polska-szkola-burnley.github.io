@@ -67,13 +67,18 @@ summaryLength = 20
 [[menu.main]]
     name       = "O stronie"
     url        = "/about/o_stronie"
-    weight     = 6
+    weight     = 7
     parent     = "o nas"    
 [[menu.main]]
     name       = "Rada rodziców"
     url        = "/about/rada-rodzicow"
     weight     = 4
-    parent     = "o nas"    
+    parent     = "o nas" 
+[[menu.main]]
+    name       = "Siedziba szkoły"
+    url        = "/about/siedziba/"
+    weight     = 6
+    parent     = "o nas"
 
 [[menu.main]]
     name       = "Dla rodziców"

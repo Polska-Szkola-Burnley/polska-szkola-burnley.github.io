@@ -36,5 +36,12 @@
       <guid>https://polska-szkola-burnley.github.io/about/o_stronie/</guid>
       <description>&lt;p&gt;Autorem strony jest &lt;a href=&#34;mailto:dwapir@gmail.com&#34;&gt;Maciej Kucharski&lt;/a&gt;. Proszę przesyłać wszelkie sugestie i wskazówki dotyczące dzałania strony.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Siedziba szkoły</title>
+      <link>https://polska-szkola-burnley.github.io/about/siedziba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://polska-szkola-burnley.github.io/about/siedziba/</guid>
+      <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9424.850777942613!2d-2.2204163!3d53.8034989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b96cd4ca19379%3A0x3843b52c2b75e8ff!2sSir%20John%20Thursby%20Community%20College!5e0!3m2!1spl!2suk!4v1726247506278!5m2!1spl!2suk&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
   </channel>
 </rss>
