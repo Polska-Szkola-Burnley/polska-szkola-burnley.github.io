@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Polska Szokła w Burnley</title>
-    <link>https://polska-szkola-burnley.github.io/about/</link>
+    <link>polska-szkola-burnley.co.uk/about/</link>
     <description>Recent content in Abouts on Polska Szokła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate>Fri, 25 Oct 2024 14:00:00 +0000</lastBuildDate>
-    <atom:link href="https://polska-szkola-burnley.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="polska-szkola-burnley.co.uk/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rada rodziców</title>
-      <link>https://polska-szkola-burnley.github.io/about/rada-rodzicow/</link>
+      <link>polska-szkola-burnley.co.uk/about/rada-rodzicow/</link>
       <pubDate>Fri, 25 Oct 2024 14:00:00 +0000</pubDate>
-      <guid>https://polska-szkola-burnley.github.io/about/rada-rodzicow/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/rada-rodzicow/</guid>
       <description>&lt;p&gt;To pojawi się info o radzie rodziców.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Nauczyciele</title>
-      <link>https://polska-szkola-burnley.github.io/about/nauczyciele/</link>
+      <link>polska-szkola-burnley.co.uk/about/nauczyciele/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
-      <guid>https://polska-szkola-burnley.github.io/about/nauczyciele/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://polska-szkola-burnley.github.io/authors/mgr-monika-deptu%C5%9B/&#34;&gt;mgr Monika Deptuś&lt;/a&gt;, dyrektor szkoły, wychowawca klasy 5,&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>polska-szkola-burnley.co.uk/about/nauczyciele/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;polska-szkola-burnley.co.uk/authors/mgr-monika-deptu%C5%9B/&#34;&gt;mgr Monika Deptuś&lt;/a&gt;, dyrektor szkoły, wychowawca klasy 5,&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>O nas</title>
-      <link>https://polska-szkola-burnley.github.io/about/historia_szkoly/</link>
+      <link>polska-szkola-burnley.co.uk/about/historia_szkoly/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
-      <guid>https://polska-szkola-burnley.github.io/about/historia_szkoly/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/historia_szkoly/</guid>
       <description>&lt;h2 id=&#34;historia-szkoły&#34;&gt;Historia szkoły&lt;/h2&gt;&#xA;&lt;p&gt;Polska Szkoła Sobotnia w Burnley rozpoczęła działalność we wrześniu 2009 roku. Na sierpniowym posiedzeniu Stowarzyszenia Polaków z Burnley i okolic podjęto jednomyślną decyzję o utworzeniu placówki oświatowej w celu krzewienia kultury polskiej. Uchwała była wynikiem troski obywateli Polski przebywających czasowo albo na stałe w Anglii o wspólne dobro i zachowanie języka ojczystego, który odgrywa bardzo ważną rolę w kształtowaniu kultury oraz wzmocnieniu więzi narodowych. Dlatego też nadrzędnym celem naszej szkoły jest krzewienie kultury polskiej.&lt;/p&gt;</description>
     </item>
     <item>
       <title>O stronie</title>
-      <link>https://polska-szkola-burnley.github.io/about/o_stronie/</link>
+      <link>polska-szkola-burnley.co.uk/about/o_stronie/</link>
       <pubDate>Mon, 09 Sep 2024 14:00:00 +0000</pubDate>
-      <guid>https://polska-szkola-burnley.github.io/about/o_stronie/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/o_stronie/</guid>
       <description>&lt;p&gt;Autorem strony jest &lt;a href=&#34;mailto:dwapir@gmail.com&#34;&gt;Maciej Kucharski&lt;/a&gt;. Proszę przesyłać wszelkie sugestie i wskazówki dotyczące dzałania strony.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Siedziba szkoły</title>
-      <link>https://polska-szkola-burnley.github.io/about/siedziba/</link>
+      <link>polska-szkola-burnley.co.uk/about/siedziba/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://polska-szkola-burnley.github.io/about/siedziba/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/siedziba/</guid>
       <description>&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9424.850777942613!2d-2.2204163!3d53.8034989!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487b96cd4ca19379%3A0x3843b52c2b75e8ff!2sSir%20John%20Thursby%20Community%20College!5e0!3m2!1spl!2suk!4v1726247506278!5m2!1spl!2suk&#34; width=&#34;600&#34; height=&#34;450&#34; style=&#34;border:0;&#34; allowfullscreen=&#34;&#34; loading=&#34;lazy&#34; referrerpolicy=&#34;no-referrer-when-downgrade&#34;&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
