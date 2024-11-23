@@ -5,4 +5,4 @@ draft: false
 type: "page"
 ---
 
-Autorem strony jest [Maciej Kucharski](mailto:dwapir@gmail.com). Proszę przesyłać wszelkie sugestie i wskazówki dotyczące dzałania strony.
+Administratorem strony jest [Maciej Kucharski](mailto:dwapir@gmail.com). Proszę przesyłać wszelkie sugestie i wskazówki dotyczące dzałania strony

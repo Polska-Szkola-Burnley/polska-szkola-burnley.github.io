@@ -4,4 +4,4 @@ draft: false
 type: "page"
 ---
 
-Informacje jak zapisać dziecko do szkoły.
+Aby zapisać dziecko do szkoły należy skontaktować się z dyrektor szkoły [Moniką Deptuś](/contact)
