@@ -5,13 +5,11 @@ draft: false
 type: "page"
 ---
 
-# POLIYKA PRYWATNOŚCI
-
 Celem niniejszej Polityki Prywatności jest wyjaśnienie zasad, na jakich przetwarzane są Państwa dane osobowe oraz omówienie Państwa podstawowych praw związanych z przetwarzaniem przez nas Państwa danych osobowych.
 
 ## Administrator danych osobowych
 
-Właścicielem strony polska-szkola-burnley.co.uk jest Polska Szkoła w Burnley (zwana dalej Szkołą), a administratorem danych osobowych dyrektor szkoły pani mgr Monika Deptuś (zwana dalej Administratorem).
+Właścicielem strony [polska-szkola-burnley.co.uk](/) jest Polska Szkoła Sobotnia im. Fryderyka Chopina (zwana dalej Szkołą), a administratorem danych osobowych dyrektor szkoły pani mgr  [Monika Deptuś](mailto:mondep@wp.pl)(zwana dalej Administratorem).
 
 Dane osobowe zbierane przez Szkołę przetwarzane są na zasadach określonych w przepisach o ochronie danych osobowych, w tym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia 27 kwietnia 2016 r. w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych) („RODO/GDPR”) oraz w przepisach Wielkiej Brytanii “UK GDPR” i “Data Protection Act 2018”.  
 Szkoła zachowuje dane osobowe w poufności i zabezpiecza je przed niepowołanym dostępem osób trzecich na zasadach określonych w wyżej wskazanych aktach prawnych.
@@ -47,4 +45,4 @@ Szkoła nie przekazuje danych osobowych innym podmiotom.
 Zmiany polityki prywatności będą publikowane na stronie polska-szkola-burnley.co.uk.
 
 # POLITYKA CIASTECZEK "COOKIES"
-Strona polska-szkola-burnley.co.uk nie korzysta z plików cookie.
+Strona [polska-szkola-burnley.co.uk](/) nie korzysta z plików cookie.
