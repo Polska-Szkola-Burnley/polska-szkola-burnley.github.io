@@ -6,4 +6,12 @@ draft: false
 type: "page"
 ---
 
-To pojawi się info o radzie rodziców.
+- Grupa 4-latków/„Zerówka” -- **Ariel Zarabski**
+- Klasa 1 -- **Katarzyna Matusiak**, **Sylwia Hnatio**
+- Klasa 2 -- **Monika Borszczewska**
+- Klasa 3 -- **Martyna Bocel**, **Urszula Zięba**
+- Klasa 4 -- **Kasia Mielczarek**
+- Klasa 5 -- **Urszula Szewczyk**
+- Klasa 6 -- **Jana Majorsova**, **Paweł Estkowski**
+- Klasa 8 -- **Maciej Kucharski**
+- Klasa GCSE/A--level -- **Bogdan Bujny**
