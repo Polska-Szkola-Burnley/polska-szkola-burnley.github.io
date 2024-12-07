@@ -1,6 +1,6 @@
 baseURL = 'polska-szkola-burnley.co.uk'
 languageCode = 'pl_PL'
-title = 'Polska Szokła w Burnley'
+title = 'Polska Szkoła w Burnley'
 defaultContentLanguage = "pl"
 
 theme = 'hugo-universal-theme'
