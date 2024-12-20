@@ -7,4 +7,5 @@ banner = "/images/11listopad/465463478_2650376188683929_3978952905320606119_n.jp
 +++
 Marsz Niepodległości po raz siódmy. Dystans 2.5 km. Wśród dumnie maszerujących uczniów był widoczny Józef Piłsudski - super Julio 👏.
 <!--more-->
-{{< galeria2 path="images/11listopad/" >}}
+
+{{< gallery dir="11listopad/" >}}

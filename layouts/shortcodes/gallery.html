@@ -1,0 +1,10 @@
+{{ $images := readDir (printf "static/images/%s" (.Get "dir")) }}
+<div class="gallery">
+    {{ range $images }}
+        {{ if not .IsDir }}
+            <a href="/images/{{ $.Get "dir" }}/{{ .Name }}" data-lightbox="gallery">
+                <img src="/images/{{ $.Get "dir" }}/{{ .Name }}" alt="{{ .Name }}" style="width:150px; margin:5px;">
+            </a>
+        {{ end }}
+    {{ end }}
+</div>
