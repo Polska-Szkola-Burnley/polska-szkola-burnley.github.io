@@ -4,6 +4,7 @@ date: 2024-11-29T14:00:00Z
 draft: false
 type: "page"
 ---
+*Ostatnia aktualizacja 21.12.2024*
 
 Celem niniejszej Polityki Prywatności jest wyjaśnienie zasad, na jakich przetwarzane są Państwa dane osobowe oraz omówienie Państwa podstawowych praw związanych z przetwarzaniem przez nas Państwa danych osobowych.
 
@@ -15,11 +16,13 @@ Dane osobowe zbierane przez Szkołę przetwarzane są na zasadach określonych w
 Szkoła zachowuje dane osobowe w poufności i zabezpiecza je przed niepowołanym dostępem osób trzecich na zasadach określonych w wyżej wskazanych aktach prawnych.
 
 ## Inspektor ochrony danych/EU Reprezentant
+
 Szkoła nie ma inspektora danych osobowych.
 
 W razie pytań dotyczących przetwarzania danych osobowych proszę się kontaktować z Administratorem.
 
 ## Zakres i cele przetwarzania danych osobowych
+
 W ramach swojej działalności Szkoła zbiera i przetwarza dane osobowe – tj.: imię i nazwisko, adres email, adres domowy,  dane dokumentu tożsamości (Paszport/Dowód Osobisty) w następujących celach:
 
  1. w celu prowadzenia zadań statutowych Szkoły (tj. nauczania dzieci i młodzieży),
@@ -44,5 +47,8 @@ Szkoła nie przekazuje danych osobowych innym podmiotom.
 
 Zmiany polityki prywatności będą publikowane na stronie polska-szkola-burnley.co.uk.
 
-# POLITYKA CIASTECZEK "COOKIES"
+## Polityka ciasteczek "cookies"
+
 Strona [polska-szkola-burnley.co.uk](/) nie korzysta z plików cookie.
+
+Nasza strona internetowa może zapisywać pliki cookie stron trzecich. Mogą one wykorzystywać pliki cookie do gromadzenia informacji o Państwa działaniach online na różnych witrynach i usługach. Nie mamy kontroli nad tymi plikami cookie, a ich wykorzystanie podlega polityce prywatności odpowiednich stron trzecich.

@@ -27,4 +27,4 @@ napisz wiadomość w formacie *Imie nazwisko rodzica, Imie nazwisko dziecka, kla
 
 po poprawnej weryfikacji powinieneś zobaczyć dodatkowe kanały
 
-![koniec](/images/discord/1koniec.webp)
+![koniec](/images/discord/1koniec.webp
