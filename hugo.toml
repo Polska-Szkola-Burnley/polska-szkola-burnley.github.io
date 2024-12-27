@@ -120,7 +120,6 @@ summaryLength = 20
 [params.footer.recent_posts]
     enable = false
 
-
 [params.carouselHomepage]
     # All carousel items are defined in their own files. You can find example items
     # at 'exampleSite/data/carousel'.
@@ -148,8 +147,8 @@ summaryLength = 20
   unsafe = true
 
 [params.widgets]
-    search = true
-    tags = true
+    search = false
+    tags = false
 
 [params.clients]
     enable = true
