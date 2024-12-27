@@ -51,7 +51,7 @@ summaryLength = 20
     parent     = "o nas"
 [[menu.main]]
     name       = "Statut"
-    url        = "/statut"
+    url        = "/about/statut"
     weight     = 2
     parent     = "o nas"
 [[menu.main]]
@@ -61,7 +61,7 @@ summaryLength = 20
     parent     = "o nas"
 [[menu.main]]
     name       = "Dofinansowanie"
-    url        = "/dofinansowanie1"
+    url        = "/about/dofinansowanie1"
     weight     = 5
     parent     = "o nas"
 [[menu.main]]
@@ -87,17 +87,17 @@ summaryLength = 20
     url        = ""
 [[menu.main]]
     name       = "Kalendarz"
-    url        = "/calendar"
+    url        = "/dla-rodzicow/calendar"
     weight     = 1
     parent     = "dla rodziców"
 [[menu.main]]
     name       = "Jak zapisać dziecko do szkoły"
-    url        = "/jak-zapisac"
+    url        = "/dla-rodzicow/jak-zapisac"
     weight     = 4
     parent     = "dla rodziców"
 [[menu.main]]
     name       = "Płatności"
-    url        = "/platnosci"
+    url        = "/dla-rodzicow/platnosci"
     weight     = 5
     parent     = "dla rodziców"
     
@@ -147,9 +147,9 @@ summaryLength = 20
 [markup.goldmark.renderer]
   unsafe = true
 
-[taxonomies]
-  category = "kategoria"
-  tag = "tagi"
+[params.widgets]
+    search = true
+    tags = true
 
 [params.clients]
     enable = true

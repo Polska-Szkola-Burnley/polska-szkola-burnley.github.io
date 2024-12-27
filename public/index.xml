@@ -48,7 +48,7 @@
       <link>polska-szkola-burnley.co.uk/blog/zbiorka-na-powodzian/</link>
       <pubDate>Fri, 25 Oct 2024 18:21:05 +0100</pubDate>
       <guid>polska-szkola-burnley.co.uk/blog/zbiorka-na-powodzian/</guid>
-      <description>&lt;p&gt;Aktualizacja!!! Dyrekcja, Grono Pedagogiczne i Rada Rodziców informują, że ogółem do tej pory zebraliśmy £850.&lt;/p&gt;&#xA;&lt;p&gt;Zarząd Szkoły dziękuje wszystkim pracownikom szkoły i rodzicom za pomoc w zorganizowaniu uroczystości z okazji Dnia Edukacji Narodowej i akcji sprzedaży ciast/aniołków, z czego dochód przeznaczony jest na powodzian. W puszce było £430, ale musimy podkreślić, że kwota ta zawiera rowniez wasze wrzutki z kiermaszu książek i zabawek w czerwcu w ubiegłym roku szkolnym.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Aktualizacja!!! Dyrekcja, Grono Pedagogiczne i Rada Rodziców informują, że ogółem do tej pory zebraliśmy £850.&lt;/p&gt;&#xA;&lt;p&gt;Zarząd Szkoły dziękuje wszystkim pracownikom szkoły i rodzicom za pomoc w zorganizowaniu uroczystości z okazji Dnia Edukacji Narodowej i akcji sprzedaży ciast/aniołków,&lt;/p&gt;</description>
     </item>
     <item>
       <title>Rada rodziców</title>
@@ -66,9 +66,9 @@
     </item>
     <item>
       <title>Kalendarz</title>
-      <link>polska-szkola-burnley.co.uk/calendar/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/calendar/</link>
       <pubDate>Tue, 17 Sep 2024 17:37:39 +0100</pubDate>
-      <guid>polska-szkola-burnley.co.uk/calendar/</guid>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/calendar/</guid>
       <description>&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&amp;ctz=Europe%2FLondon&#34; style=&#34;border: 0&#34; width=&#34;600&#34; height=&#34;400&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;</description>
     </item>
     <item>
@@ -115,23 +115,23 @@
     </item>
     <item>
       <title>Dofinansowanie</title>
-      <link>polska-szkola-burnley.co.uk/dofinansowanie1/</link>
+      <link>polska-szkola-burnley.co.uk/about/dofinansowanie1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>polska-szkola-burnley.co.uk/dofinansowanie1/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/dofinansowanie1/</guid>
       <description>&lt;div class=&#34;image-gallery&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;  &#xA;    &#xA;      &#xA;      &lt;div class=&#34;image-item&#34;&gt;&#xA;        &lt;img src=&#34;polska-szkola-burnley.co.uk/images/dofinansowanie/dofinansowanie1.jpg&#34; alt=&#34;images/dofinansowanie/dofinansowanie1.jpg&#34; class=&#34;gallery-image&#34; onclick=&#34;openImage(this.src)&#34; style=&#34;width:100%; max-width:1000px; cursor:pointer;&#34;&gt;&#xA;      &lt;/div&gt;&#xA;    &#xA;  &lt;/div&gt;&#xA;  &#xA;  &#xA;  &lt;script&gt;&#xA;  function openImage(src) {&#xA;    var modal = document.createElement(&#34;div&#34;);&#xA;    modal.style.position = &#34;fixed&#34;;&#xA;    modal.style.top = &#34;0&#34;;&#xA;    modal.style.left = &#34;0&#34;;&#xA;    modal.style.width = &#34;100%&#34;;&#xA;    modal.style.height = &#34;100%&#34;;&#xA;    modal.style.backgroundColor = &#34;rgba(0, 0, 0, 0.8)&#34;;&#xA;    modal.style.display = &#34;flex&#34;;&#xA;    modal.style.alignItems = &#34;center&#34;;&#xA;    modal.style.justifyContent = &#34;center&#34;;&#xA;    modal.style.zIndex = &#34;1000&#34;;&#xA;  &#xA;    var img = document.createElement(&#34;img&#34;);&#xA;    img.src = src;&#xA;    img.style.maxWidth = &#34;90%&#34;;&#xA;    img.style.maxHeight = &#34;90%&#34;;&#xA;    img.style.boxShadow = &#34;0 0 10px rgba(255, 255, 255, 0.5)&#34;;&#xA;  &#xA;    modal.appendChild(img);&#xA;  &#xA;    modal.onclick = function() {&#xA;      modal.remove();&#xA;    }&#xA;  &#xA;    document.body.appendChild(modal);&#xA;  }&#xA;  &lt;/script&gt;&#xA;  &#xA;  &#xA;  &lt;style&gt;&#xA;  .image-gallery {&#xA;    display: flex;&#xA;    flex-wrap: wrap;&#xA;    gap: 10px;&#xA;  }&#xA;  &#xA;  .image-item img {&#xA;    width: 100%;&#xA;    max-width: 1000px;  &#xA;    height: auto;  &#xA;    cursor: pointer;  &#xA;    transition: transform 0.3s ease;  &#xA;  }&#xA;  &#xA;  .image-item img:hover {&#xA;    transform: scale(1.05);  &#xA;  }&#xA;  &lt;/style&gt;</description>
     </item>
     <item>
       <title>Informacje o płatnościach</title>
-      <link>polska-szkola-burnley.co.uk/platnosci/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/platnosci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>polska-szkola-burnley.co.uk/platnosci/</guid>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/platnosci/</guid>
       <description>&lt;h2 id=&#34;konto-bankowe-szkoły&#34;&gt;Konto bankowe szkoły&lt;/h2&gt;&#xA;&lt;p&gt;Numer konta: 53605949, sort kod: 20-15-70&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jak zapisać dziecko do szkoły</title>
-      <link>polska-szkola-burnley.co.uk/jak-zapisac/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/jak-zapisac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>polska-szkola-burnley.co.uk/jak-zapisac/</guid>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/jak-zapisac/</guid>
       <description>&lt;p&gt;Aby zapisać dziecko do szkoły należy skontaktować się z dyrektor szkoły &lt;a href=&#34;polska-szkola-burnley.co.uk/contact&#34;&gt;Moniką Deptuś&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -150,9 +150,9 @@
     </item>
     <item>
       <title>Statut</title>
-      <link>polska-szkola-burnley.co.uk/statut/</link>
+      <link>polska-szkola-burnley.co.uk/about/statut/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>polska-szkola-burnley.co.uk/statut/</guid>
+      <guid>polska-szkola-burnley.co.uk/about/statut/</guid>
       <description>&lt;iframe src=&#34;polska-szkola-burnley.co.uk/pdf/statut.pdf&#34; width=&#34;100%&#34; height=&#34;700px&#34;&gt;&#xA;    Twój przeglądarka nie obsługuje wyświetlania plików PDF.&#xA;    Możesz pobrać go [tutaj](pdf/statut.pdf).&#xA;&lt;/iframe&gt;</description>
     </item>
   </channel>

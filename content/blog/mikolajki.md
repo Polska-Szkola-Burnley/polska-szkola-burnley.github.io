@@ -1,6 +1,6 @@
 +++
 title = "Mikołaj przybył do naszych uczniów..."
-tagi = ["wydarzenia"]
+tags = ["wydarzenia"]
 date = "2024-12-07T21:29:20+02:00"
 banner = "images/mikolajki/470228046_2678939849160896_7170924137795296224_n.webp"
 authors = ["mgr Monika Deptuś"]
