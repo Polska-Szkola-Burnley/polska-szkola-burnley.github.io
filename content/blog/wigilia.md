@@ -1,7 +1,7 @@
 +++
 title = "Świąteczny czas..."
 date = "2024-12-27T12:56:00+02:00"
-tagi = ["wydarzenia"]
+categories = ["wydarzenia"]
 authors = ["mgr Monika Deptuś"]
 banner = "/images/wigilia/baner.webp"
 +++

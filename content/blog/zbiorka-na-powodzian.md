@@ -1,7 +1,7 @@
 +++
 title = 'Zbiórka Na Powodzian'
 date = 2024-10-25T18:21:05+01:00
-tags = ["ogłoszenia"]
+categories = ["ogłoszenia"]
 authors = ["mgr Monika Deptuś"]
 draft = false
 +++

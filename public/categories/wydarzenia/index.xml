@@ -2,12 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wydarzenia on Polska Szkoła w Burnley</title>
-    <link>polska-szkola-burnley.co.uk/tags/wydarzenia/</link>
+    <link>polska-szkola-burnley.co.uk/categories/wydarzenia/</link>
     <description>Recent content in Wydarzenia on Polska Szkoła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
-    <lastBuildDate>Sat, 07 Dec 2024 21:29:20 +0200</lastBuildDate>
-    <atom:link href="polska-szkola-burnley.co.uk/tags/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Dec 2024 12:56:00 +0200</lastBuildDate>
+    <atom:link href="polska-szkola-burnley.co.uk/categories/wydarzenia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Świąteczny czas...</title>
+      <link>polska-szkola-burnley.co.uk/blog/wigilia/</link>
+      <pubDate>Fri, 27 Dec 2024 12:56:00 +0200</pubDate>
+      <guid>polska-szkola-burnley.co.uk/blog/wigilia/</guid>
+      <description>&lt;p&gt;Świąteczny czas dobiega końca. Pozostaną jednak w sercu wspomnienia chwil spędzonych z bliskimi, którym życzyliśmy zdrowia, spokojnego czasu i radości. Niech to nie skończy się wraz z ostatnimi chwilami dzisiejszego dnia. Niech magia narodzenia Jezusa trwa w nas przez kolejny rok. Zdjęcia z naszej szkolnej Wigilii będą Wam przypominać codziennie o tym, co się stało w tę grudniową noc. ❤&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mikołaj przybył do naszych uczniów...</title>
       <link>polska-szkola-burnley.co.uk/blog/mikolajki/</link>

@@ -5,19 +5,19 @@
     <loc>polska-szkola-burnley.co.uk/blog/</loc>
     <lastmod>2024-12-27T12:56:00+02:00</lastmod>
   </url><url>
+    <loc>polska-szkola-burnley.co.uk/categories/</loc>
+    <lastmod>2024-12-27T12:56:00+02:00</lastmod>
+  </url><url>
     <loc>polska-szkola-burnley.co.uk/</loc>
     <lastmod>2024-12-27T12:56:00+02:00</lastmod>
   </url><url>
     <loc>polska-szkola-burnley.co.uk/blog/wigilia/</loc>
     <lastmod>2024-12-27T12:56:00+02:00</lastmod>
   </url><url>
+    <loc>polska-szkola-burnley.co.uk/categories/wydarzenia/</loc>
+    <lastmod>2024-12-27T12:56:00+02:00</lastmod>
+  </url><url>
     <loc>polska-szkola-burnley.co.uk/blog/mikolajki/</loc>
-    <lastmod>2024-12-07T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>polska-szkola-burnley.co.uk/tags/</loc>
-    <lastmod>2024-12-07T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>polska-szkola-burnley.co.uk/tags/wydarzenia/</loc>
     <lastmod>2024-12-07T21:29:20+02:00</lastmod>
   </url><url>
     <loc>polska-szkola-burnley.co.uk/about/</loc>
@@ -35,7 +35,7 @@
     <loc>polska-szkola-burnley.co.uk/authors/mgr-monika-deptu%C5%9B/</loc>
     <lastmod>2024-11-08T17:37:39+01:00</lastmod>
   </url><url>
-    <loc>polska-szkola-burnley.co.uk/tags/og%C5%82oszenia/</loc>
+    <loc>polska-szkola-burnley.co.uk/categories/og%C5%82oszenia/</loc>
     <lastmod>2024-10-25T18:21:05+01:00</lastmod>
   </url><url>
     <loc>polska-szkola-burnley.co.uk/blog/zbiorka-na-powodzian/</loc>
@@ -70,8 +70,6 @@
   </url><url>
     <loc>polska-szkola-burnley.co.uk/authors/mgr-barbara-kucharska/</loc>
   </url><url>
-    <loc>polska-szkola-burnley.co.uk/categories/</loc>
-  </url><url>
     <loc>polska-szkola-burnley.co.uk/about/dofinansowanie1/</loc>
   </url><url>
     <loc>polska-szkola-burnley.co.uk/dla-rodzicow/platnosci/</loc>
@@ -83,5 +81,7 @@
     <loc>polska-szkola-burnley.co.uk/about/siedziba/</loc>
   </url><url>
     <loc>polska-szkola-burnley.co.uk/about/statut/</loc>
+  </url><url>
+    <loc>polska-szkola-burnley.co.uk/tags/</loc>
   </url>
 </urlset>

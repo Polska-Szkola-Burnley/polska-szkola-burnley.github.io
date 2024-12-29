@@ -146,9 +146,14 @@ summaryLength = 20
 [markup.goldmark.renderer]
   unsafe = true
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  author = "authors"
+
 [params.widgets]
-    search = false
-    tags = false
+    search = true
+    categories = true
 
 [params.clients]
     enable = true
