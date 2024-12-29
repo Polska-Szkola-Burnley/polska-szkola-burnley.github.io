@@ -103,7 +103,7 @@ summaryLength = 20
     
 [[menu.main]]
     name       = "Wydarzenia"
-    url        = "/blog"
+    url        = "/blog/"
     weight     = 2
 
 [[menu.main]]
