@@ -78,6 +78,22 @@
             <!-- /.container -->
         </div>
         <!-- /#content -->
+        <!-- Comments by Cusdis -->
+        <h4 style="text-decoration: underline; 
+        text-decoration-color: green; 
+        text-decoration-thickness: 5px; 
+        text-underline-offset: 10px; 
+        text-transform: uppercase;">
+        Zostaw komentarz:
+        </h4>
+        <div id="cusdis_thread" data-host="https://cusdis.com"
+        data-app-id="ff66eb24-fa8a-4336-9f63-bea82a6dbf43"
+        data-page-id="{{ .File.UniqueID }}" 
+        data-page-url="{{ .Permalink }}"
+        data-page-title="{{ .Title }}"> 
+        </div>
+        <script defer src="https://cusdis.com/js/widget/lang/pl"></script>
+        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
 
         {{ partial "footer.html" . }}
 
