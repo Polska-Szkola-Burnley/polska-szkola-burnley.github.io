@@ -86,11 +86,11 @@
         text-transform: uppercase;
         margin: 5%; /* Marginesy wokół kontenera */
         ">
-        Zostaw komentarz:
+        Zostaw komentarz
         </h4>
         <style>
           #cusdis_thread {
-            margin: 5%; /* Marginesy wokół kontenera */
+            margin: 6%; /* Marginesy wokół kontenera */
           }
           #cusdis_thread iframe {
             min-height: 400px; /* Wysokość formularza */
@@ -100,7 +100,9 @@
         data-app-id="ff66eb24-fa8a-4336-9f63-bea82a6dbf43"
         data-page-id="{{ .File.UniqueID }}" 
         data-page-url="{{ .Permalink }}"
-        data-page-title="{{ .Title }}"> 
+        data-page-title="{{ .Title }}"
+        data-lang="pl"
+        > 
         </div>
         <script defer src="https://cusdis.com/js/widget/lang/pl"></script>
         <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
