@@ -2,8 +2,17 @@
 title: "Monika Deptuś"
 date: 2024-11-08T17:37:39+01:00
 draft: false
+type: "page"
 ---
-{{< figure src="/images/nauczyciele/monika.jpg" alt="mgr Monika Deptuś" class="float-left" >}}
+
+<div style="float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    max-width: 25%;">
+    <img src="/images/nauczyciele/monika.jpg" alt="mgr Monika Deptuś" 
+         style="width: 100%; height: auto;">
+</div>
+
 **mgr Monika Deptuś** dyrektor Polskiej Szkoły Sobotniej w Burnley, jest kochającą żoną i matką trzech synów, dobrym chrześcijaninem pomagającym wszystkim, którzy potrzebują jej wsparcia, a także dumną ze swego pochodzenia Polką. Należy do osób życzliwych, cierpliwych i ugodowych. Lubi angażować się w prace na rzecz innych, nie oczekując niczego w zamian. Jest osobą miłą i sympatyczną, która zawsze stara się uśmiechać bez względu na pogodę ducha. Uwielbia czytać książki, oglądać dobre filmy akcji oraz podróżować. Jest osobą wykształconą. Ukończyła Studium Nauczycielskie w Chełmie, studiowała Filologię Polską na Uniwersytecie Warszawskim, a po zdobyciu tytułu magistra ukończyła studia podyplomowe w Instytucie Badań Literackich PAN w Warszawie. Jako dyrektor jest kreatyna, zdyscyplinowana i ma świetny zmysł organizatorski, jako nauczyciel – wyrozumiała i nietuzinkowa, a jako człowiek – wrażliwa i godna zaufania.
 
 W TROSCE O JĘZYK POLSKI I TOŻSAMOŚĆ NARODOWĄ
