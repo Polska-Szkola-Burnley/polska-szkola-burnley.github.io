@@ -1,0 +1,18 @@
+{{/* layouts/partials/facebook-share-button.html */}}
+{{ $page := . }} {{/* W tym kontekście '.' to już strona */}}
+{{ $buttonText := "Udostępnij na " }} {{/* Tekst na stałe lub z configu */}}
+{{ $buttonClass := "facebook-share-button" }} {{/* Klasa na stałe lub z configu */}}
+{{ $iconClass := "fab fa-facebook-f" }}
+
+{{ with $page }}
+  {{ $shareURL := printf "https://www.facebook.com/sharer/sharer.php?u=%s" .Permalink | safeURL }}
+  {{/* Dodano margin-bottom do stylu diva dla odstępu poniżej */}}
+  <div class="social-share-container" style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #eee; margin-bottom: 1.5em;"> {{/* <-- Dodano margin-bottom */}}
+    <a href="{{ $shareURL }}"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="{{ $buttonClass }}">
+       {{ $buttonText }} <i class="{{ $iconClass }}" aria-hidden="true"></i>
+    </a>
+  </div>
+{{ end }}

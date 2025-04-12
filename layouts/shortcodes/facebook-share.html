@@ -1,0 +1,19 @@
+{{/* layouts/shortcodes/facebook-share.html */}}
+{{ $page := .Page }}
+{{/* Zmieniono domyślny tekst na "Udostępnij na " */}}
+{{ $buttonText := .Get "text" | default "Udostępnij na " }} 
+{{ $buttonClass := .Get "class" | default "facebook-share-button" }}
+{{ $iconClass := "fab fa-facebook-f" }} {{/* Lub inna klasa ikony, jeśli używasz innej */}}
+
+{{ with $page }}
+  {{ $shareURL := printf "https://www.facebook.com/sharer/sharer.php?u=%s" .Permalink | safeURL }}
+  <a href="{{ $shareURL }}" 
+     target="_blank" 
+     rel="noopener noreferrer" 
+     class="{{ $buttonClass }}">
+     {{/* Zmieniono kolejność: najpierw tekst, potem ikona */}}
+     {{ $buttonText }} <i class="{{ $iconClass }}" aria-hidden="true"></i>
+  </a>
+{{ else }}
+  {{ warnf "Shortcode 'facebook-share' użyty poza kontekstem strony." }}
+{{ end }}
