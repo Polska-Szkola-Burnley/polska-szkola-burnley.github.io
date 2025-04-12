@@ -19,7 +19,7 @@ wybierz kanał weryfikacja
 
 ## Krok 3: Wiadomość
 
-napisz wiadomość w formacie *Imie nazwisko rodzica, Imie nazwisko dziecka, klasa dziecka, data urodzenia dziecka*
+napisz wiadomość w formacie __*Imie nazwisko rodzica, Imie nazwisko dziecka, klasa dziecka, data urodzenia dziecka*__
 
 ![wiadomosc](/images/discord/1wiadomosc.webp)
 
@@ -27,4 +27,4 @@ napisz wiadomość w formacie *Imie nazwisko rodzica, Imie nazwisko dziecka, kla
 
 po poprawnej weryfikacji powinieneś zobaczyć dodatkowe kanały
 
-![koniec](/images/discord/1koniec.webp
+![koniec](/images/discord/1koniec.webp)
