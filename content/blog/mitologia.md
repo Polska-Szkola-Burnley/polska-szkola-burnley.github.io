@@ -1,5 +1,5 @@
 +++
-title = "Ciekawe zajęcia..."
+title = "Ciekawe zajęcia"
 categories = ["wydarzenia"]
 date = "2025-04-09T21:29:20+02:00"
 banner = "images/mitologia/488700776_2777428749312005_4112231866078904977_n.webp"
