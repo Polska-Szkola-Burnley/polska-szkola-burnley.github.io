@@ -1,18 +1,63 @@
-{{/* layouts/partials/facebook-share-button.html */}}
+{{/* layouts/partials/social-share-buttons.html */}}
+{{/* Zakładając, że ten plik zawiera przyciski udostępniania */}}
 {{ $page := . }} {{/* W tym kontekście '.' to już strona */}}
-{{ $buttonText := "Udostępnij na " }} {{/* Tekst na stałe lub z configu */}}
-{{ $buttonClass := "facebook-share-button" }} {{/* Klasa na stałe lub z configu */}}
-{{ $iconClass := "fab fa-facebook-f" }}
 
 {{ with $page }}
-  {{ $shareURL := printf "https://www.facebook.com/sharer/sharer.php?u=%s" .Permalink | safeURL }}
-  {{/* Dodano margin-bottom do stylu diva dla odstępu poniżej */}}
-  <div class="social-share-container" style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #eee; margin-bottom: 1.5em;"> {{/* <-- Dodano margin-bottom */}}
-    <a href="{{ $shareURL }}"
+  {{/* Kontener na wszystkie przyciski udostępniania */}}
+  <div class="social-share-container" style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #eee; margin-bottom: 1.5em;">
+
+    {{/* Zmieniony nagłówek "Udostępnij:" - teraz jako H4 ze stylami */}}
+    <h4 style="text-decoration: underline;
+               text-decoration-color: green;
+               text-decoration-thickness: 5px; /* Grubość podkreślenia */
+               text-underline-offset: 8px; /* Odstęp podkreślenia od tekstu - dostosowany */
+               text-transform: uppercase;
+               margin-bottom: 15px; /* Dodano margines dolny dla odstępu od ikon */
+               /* Usunięto margin: 5% - nieodpowiedni w tym kontekście */
+               font-size: 1.1em; /* Opcjonalnie dostosuj rozmiar czcionki, domyślny h4 może być za duży */
+               line-height: 1.2; /* Poprawia czytelność przy podkreśleniu */
+               ">
+      Udostępnij
+    </h4>
+
+    {{/* Przycisk Udostępnij na Facebooku (bez zmian w logice) */}}
+    {{ $fbShareURL := printf "https://www.facebook.com/sharer/sharer.php?u=%s" .Permalink | safeURL }}
+    <a href="{{ $fbShareURL }}"
        target="_blank"
        rel="noopener noreferrer"
-       class="{{ $buttonClass }}">
-       {{ $buttonText }} <i class="{{ $iconClass }}" aria-hidden="true"></i>
+       class="social-share-button facebook-share-button"
+       title="Udostępnij na Facebooku"
+       style="margin-right: 8px; font-size: 1.5em; color: #3b5998;"
+       aria-label="Udostępnij na Facebooku">
+       <i class="fab fa-facebook-f" aria-hidden="true"></i>
     </a>
+
+    {{/* Przycisk Udostępnij na X (Twitter) (bez zmian w logice) */}}
+    {{ $twitterShareURL := printf "https://twitter.com/intent/tweet?url=%s&text=%s" (.Permalink | safeURL) (.Title | urlquery) }}
+    <a href="{{ $twitterShareURL }}"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="social-share-button x-share-button"
+       title="Udostępnij na X"
+       style="margin-right: 8px; font-size: 1.5em; color: #000000;"
+       aria-label="Udostępnij na X">
+       <i class="fa-brands fa-x-twitter" aria-hidden="true"></i>
+    </a>
+
+    {{/* Komentarz dotyczący Instagrama (bez zmian) */}}
+    {{/*
+    Instagram nie oferuje standardowego linku do udostępniania stron internetowych.
+    Można rozważyć dodanie linku do profilu Instagram szkoły, jeśli istnieje, np.:
+    <a href="https://www.instagram.com/TWOJ_PROFIL_INSTAGRAM/"
+       target="_blank"
+       rel="noopener noreferrer"
+       class="social-share-button instagram-profile-link"
+       title="Zobacz nas na Instagramie"
+       style="font-size: 1.5em; color: #E1306C;"
+       aria-label="Zobacz nasz profil na Instagramie">
+        <i class="fab fa-instagram" aria-hidden="true"></i>
+    </a>
+    */}}
   </div>
 {{ end }}
+
