@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dla-Rodzicows on Polska Szkoła w Burnley</title>
-    <link>//localhost:1313/dla-rodzicow/</link>
+    <link>polska-szkola-burnley.co.uk/dla-rodzicow/</link>
     <description>Recent content in Dla-Rodzicows on Polska Szkoła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate>Tue, 17 Sep 2024 17:37:39 +0100</lastBuildDate>
-    <atom:link href="//localhost:1313/dla-rodzicow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="polska-szkola-burnley.co.uk/dla-rodzicow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kalendarz</title>
-      <link>//localhost:1313/dla-rodzicow/calendar/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/calendar/</link>
       <pubDate>Tue, 17 Sep 2024 17:37:39 +0100</pubDate>
-      <guid>//localhost:1313/dla-rodzicow/calendar/</guid>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/calendar/</guid>
       <description>&lt;div style=&#34;position: relative; padding-bottom: 75%; height: 0; overflow: hidden;&#34;&gt;&#xA;  &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&amp;ctz=Europe%2FLondon&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Informacje o płatnościach</title>
-      <link>//localhost:1313/dla-rodzicow/platnosci/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/platnosci/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/dla-rodzicow/platnosci/</guid>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/platnosci/</guid>
       <description>&lt;h2 id=&#34;konto-bankowe-szkoły&#34;&gt;Konto bankowe szkoły&lt;/h2&gt;&#xA;&lt;p&gt;Numer konta: 53605949, sort kod: 20-15-70&lt;/p&gt;</description>
     </item>
     <item>
       <title>Jak zapisać dziecko do szkoły</title>
-      <link>//localhost:1313/dla-rodzicow/jak-zapisac/</link>
+      <link>polska-szkola-burnley.co.uk/dla-rodzicow/jak-zapisac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/dla-rodzicow/jak-zapisac/</guid>
-      <description>&lt;p&gt;Aby zapisać dziecko do szkoły należy skontaktować się z dyrektor szkoły &lt;a href=&#34;//localhost:1313/contact&#34;&gt;Moniką Deptuś&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>polska-szkola-burnley.co.uk/dla-rodzicow/jak-zapisac/</guid>
+      <description>&lt;p&gt;Aby zapisać dziecko do szkoły należy skontaktować się z dyrektor szkoły &lt;a href=&#34;polska-szkola-burnley.co.uk/contact&#34;&gt;Moniką Deptuś&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
