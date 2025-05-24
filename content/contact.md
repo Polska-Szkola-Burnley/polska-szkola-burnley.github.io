@@ -1,6 +1,7 @@
 +++
 title = "Kontakt"
 id = "contact"
+type = "page"
 +++
 
 ### Kontakt do dyrektor szkoły [mgr Moniki Deptuś](/authors/mgr-monika-deptuś/)
