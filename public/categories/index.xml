@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Polska Szkoła w Burnley</title>
-    <link>http://192.168.1.196:1313/categories/</link>
+    <link>polska-szkola-burnley.co.uk/categories/</link>
     <description>Recent content in Categories on Polska Szkoła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate>Sun, 04 May 2025 21:29:20 +0200</lastBuildDate>
-    <atom:link href="http://192.168.1.196:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="polska-szkola-burnley.co.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wydarzenia</title>
-      <link>http://192.168.1.196:1313/categories/wydarzenia/</link>
+      <link>polska-szkola-burnley.co.uk/categories/wydarzenia/</link>
       <pubDate>Sun, 04 May 2025 21:29:20 +0200</pubDate>
-      <guid>http://192.168.1.196:1313/categories/wydarzenia/</guid>
+      <guid>polska-szkola-burnley.co.uk/categories/wydarzenia/</guid>
       <description></description>
     </item>
     <item>
       <title>Ogłoszenia</title>
-      <link>http://192.168.1.196:1313/categories/og%C5%82oszenia/</link>
+      <link>polska-szkola-burnley.co.uk/categories/og%C5%82oszenia/</link>
       <pubDate>Fri, 25 Oct 2024 18:21:05 +0100</pubDate>
-      <guid>http://192.168.1.196:1313/categories/og%C5%82oszenia/</guid>
+      <guid>polska-szkola-burnley.co.uk/categories/og%C5%82oszenia/</guid>
       <description></description>
     </item>
   </channel>
