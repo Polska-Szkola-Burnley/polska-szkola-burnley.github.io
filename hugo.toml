@@ -51,8 +51,8 @@ summaryLength = 20
     weight     = 1
     parent     = "o nas"
 [[menu.main]]
-    name       = "Statut"
-    url        = "/about/statut"
+    name       = "Regulamin szkoły"
+    url        = "/about/regulamin_szkoly"
     weight     = 2
     parent     = "o nas"
 [[menu.main]]

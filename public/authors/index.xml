@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Polska Szkoła w Burnley</title>
-    <link>polska-szkola-burnley.co.uk/authors/</link>
+    <link>http://192.168.1.196:1313/authors/</link>
     <description>Recent content in Authors on Polska Szkoła w Burnley</description>
     <generator>Hugo</generator>
     <language>pl_PL</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="polska-szkola-burnley.co.uk/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.196:1313/authors/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
