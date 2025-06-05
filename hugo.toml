@@ -98,7 +98,7 @@ summaryLength = 20
     parent     = "dla rodziców"
 [[menu.main]]
     name       = "Płatności"
-    url        = "/dla-rodzicow/platnosci"
+    url        = "/dla-rodzicow/cennik"
     weight     = 5
     parent     = "dla rodziców"
     

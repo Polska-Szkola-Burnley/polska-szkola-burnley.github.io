@@ -2,6 +2,7 @@
 title: "REGULAMIN POLSKIEJ SZKOŁY SOBOTNIEJ W BURNLEY"
 draft: false
 type: "page"
+disable_copy: true
 ---
 
 
@@ -205,7 +206,7 @@ Statucie Szkoły.
 17. Poszanowania wyposażenia szkoły i własności innych osób.
 18. Naprawienia wyrządzonej szkody.
 
-### RODZICE/OPIEKUNOWIE PRAWNI
+**RODZICE/OPIEKUNOWIE PRAWNI**
 
 **Mają prawo do:**
 
@@ -230,10 +231,7 @@ Statucie Szkoły.
 **Mają obowiązek:**
 
 1. Zapisania uczniów do szkoły i dokonania opłaty w określonym
-    terminie. Kwoty czesnego ustlone są przez Zarząd Szkoły. Za piersze
-    dziecko jest to kwota 240 funtów, za drugie 200 funtów i za kolejne
-    -- 160 funtów. Za dziecko czwarte i następne rodzice nie wnoszą
-    opłat.
+    terminie. Wysokość oplat jest publikowana na [stronie szkoły](/dla-rodzicow/cennik/).
 2. Rodzice/opiekunowie muszą dokonać wpłaty pełnej kwoty czesnego do 15
     września.
 3. Wypełnienia formularza, podając aktualne dane kontaktowe.
