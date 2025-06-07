@@ -232,8 +232,7 @@ Statucie Szkoły.
 
 1. Zapisania uczniów do szkoły i dokonania opłaty w określonym
     terminie. Wysokość oplat jest publikowana na [stronie szkoły](/dla-rodzicow/cennik/).
-2. Rodzice/opiekunowie muszą dokonać wpłaty pełnej kwoty czesnego do 15
-    września.
+2. Rodzice/opiekunowie muszą dokonać wpłaty pełnej kwoty czesnego.
 3. Wypełnienia formularza, podając aktualne dane kontaktowe.
 4. Usprawiedliwić nieobecności i spóźnienia swoich dzieci.
 5. Punktualnego przyprowadzania do szkoły i zabierania ucznia po
