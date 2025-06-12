@@ -4,7 +4,7 @@ date: 2024-11-29T14:00:00Z
 draft: false
 type: "page"
 ---
-*Ostatnia aktualizacja 21.12.2024*
+*Ostatnia aktualizacja 21.12.2024* 
 
 Celem niniejszej Polityki Prywatności jest wyjaśnienie zasad, na jakich przetwarzane są Państwa dane osobowe oraz omówienie Państwa podstawowych praw związanych z przetwarzaniem przez nas Państwa danych osobowych.
 

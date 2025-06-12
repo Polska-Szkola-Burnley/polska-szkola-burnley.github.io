@@ -9,7 +9,7 @@ type: "page"
     margin-right: 15px;
     margin-bottom: 10px;
     max-width: 25%;">
-    <img src="/images/nauczyciele/monika.jpg" alt="mgr Monika Deptuś" 
+    <img src="/images/nauczyciele/monika.jpg" alt="mgr Monika Deptuś"
          style="width: 100%; height: auto;">
 </div>
 
