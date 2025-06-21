@@ -1,7 +1,7 @@
 ---
 title: "O nas"
 date: 2024-09-09T14:00:00Z
-description:  Krótka historia szkoły 
+description: "Poznaj historię Polskiej Szkoły w Burnley, od jej założenia w 2009 roku. Dowiedz się, jak krzewimy polską kulturę i język ojczysty wśród Polonii w Anglii."
 draft: false
 type: "page"
 ---

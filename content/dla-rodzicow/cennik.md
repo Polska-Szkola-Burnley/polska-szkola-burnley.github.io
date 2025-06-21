@@ -1,6 +1,7 @@
 ---
 title: "Cennik"
 draft: false
+description: "Poznaj cennik opłat na rok szkolny 2025/2026 w Polskiej Szkole w Burnley. Sprawdź wysokość czesnego i dane do wpłaty."
 type: "page"
 ---
 ### Czesne – rok szkolny 2025/2026

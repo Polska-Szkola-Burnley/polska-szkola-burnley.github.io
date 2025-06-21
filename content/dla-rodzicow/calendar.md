@@ -2,6 +2,7 @@
 title: "Kalendarz"
 date: 2024-09-17T17:37:39+01:00
 draft: false
+description: "Sprawdź kalendarz Polskiej Szkoły w Burnley. Znajdziesz tu aktualne daty zajęć, dni wolne, święta i ważne wydarzenia na rok szkolny 2025/2026."
 type: "page"
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: "Jak zapisać dziecko do szkoły"
 draft: false
+description: "Chcesz zapisać dziecko do Polskiej Szkoły w Burnley? Znajdziesz tu formularz zgłoszeniowy i broszurę informacyjną. Sprawdź, jak łatwo dołączyć do naszej społeczności."
 type: "page"
 ---
 

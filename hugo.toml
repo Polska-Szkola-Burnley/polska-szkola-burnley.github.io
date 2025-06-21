@@ -1,4 +1,4 @@
-baseURL = 'polska-szkola-burnley.co.uk'
+baseURL = 'https://polska-szkola-burnley.co.uk/'
 languageCode = 'pl_PL'
 title = 'Polska Szkoła w Burnley'
 defaultContentLanguage = "pl"
@@ -7,7 +7,7 @@ theme = 'hugo-universal-theme'
 summaryLength = 20
 
 [params]
-    facebook_site = "www.facebook.com/polskaszkola.wburnley"
+    facebook_site = "https://www.facebook.com/polskaszkola.wburnley"
     address = """<p class="text-uppercase"><strong>Sir John Thursby Community College</strong>
         <br>Burnley BB10 2AT
         <br>England
@@ -27,7 +27,8 @@ summaryLength = 20
     mainSections = ["blog"]
     copyright = "© Polska Szkoła w Burnley 2025"
     css = ["css/custom.css"]
-    defaultDescription = "Zapraszamy dzieci i ich rodziców/opiekunów w soboty od 9.30 do 13.30. Oferujemy nauczanie na wysokim poziomie dzięki wykwalifikowanej kadrze pedagogicznej. Uczymy języka polskiego z elementami historii oraz geografii. Ponadto prowadzimy zajęcia artystyczne, na których uczniowie mają okazję tańczyć, śpiewać, malować czy rysować. Lekcje są oryginalne, ciekawe i nietypowe. Nasi uczniowie są dla nas najważniejsi, dlatego dbamy o ich ogólny rozwój umysłowy i wychowujemy w duchu chrześcijańskim."
+    defaultDescription = "Odkryj Polską Szkołę Sobotnią w Burnley! Zapewniamy kreatywne lekcje polskiego, historii i sztuki w przyjaznej atmosferze. Dbamy o rozwój Twojego dziecka. Dowiedz się więcej!"
+
     defaultKeywords = ["polska", "szkoła", "sobotnia", "burnley", "polish", "school", "saturday"]
 
 

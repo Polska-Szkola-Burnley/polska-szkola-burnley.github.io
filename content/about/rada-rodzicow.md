@@ -1,7 +1,7 @@
 ---
 title: "Rada rodziców"
 date: 2024-10-25T14:00:00Z
-description:  Informacje o składzie rady rodziców. 
+description: "Poznaj skład Rady Rodziców Polskiej Szkoły w Burnley. Zobacz, kto reprezentuje rodziców i aktywnie wspiera rozwój oraz działalność naszej placówki."
 draft: false
 type: "page"
 ---

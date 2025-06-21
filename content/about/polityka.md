@@ -2,6 +2,7 @@
 title: "Polityka Prywatności"
 date: 2024-11-29T14:00:00Z
 draft: false
+description: "Przeczytaj Politykę Prywatności Polskiej Szkoły w Burnley. Wyjaśniamy, jak chronimy Twoje dane osobowe i jakie masz prawa zgodnie z RODO (GDPR)."
 type: "page"
 ---
 *Ostatnia aktualizacja 21.12.2024* 

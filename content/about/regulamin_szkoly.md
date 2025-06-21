@@ -1,6 +1,7 @@
 ---
 title: "REGULAMIN POLSKIEJ SZKOŁY SOBOTNIEJ W BURNLEY"
 draft: false
+description: "Regulamin Polskiej Szkoły w Burnley. Poznaj zasady, prawa i obowiązki uczniów oraz rodziców. Ważne informacje dla całej społeczności szkolnej."
 type: "page"
 disable_copy: true
 ---
