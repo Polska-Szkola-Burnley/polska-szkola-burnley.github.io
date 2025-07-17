@@ -10,7 +10,7 @@ Aby zapisać dziecko do szkoły należy skontaktować się z dyrektor szkoły [M
 Proszę także zapoznać się z broszurą dla nowych rodziców.
 <iframe src="/pdf/dla_nowych.pdf" width="100%" height="700px">
     Twój przeglądarka nie obsługuje wyświetlania plików PDF.
-    Możesz pobrać go [tutaj](pdf/dlanowych.pdf).
+    Możesz pobrać go [tutaj](pdf/dla_nowych.pdf).
 </iframe>
 
 Formularz zgłoszeniowy.
