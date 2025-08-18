@@ -1,0 +1,13 @@
+# Plik konfiguracyjny dla Netlify
+[build]
+  # Katalog, w którym znajduje się gotowa strona po zbudowaniu
+  publish = "public"
+  # Domyślna komenda do budowania strony
+  command = "hugo"
+
+# Ustawienia dla środowiska produkcyjnego
+[context.production.environment]
+  # Określa wersję Hugo, której Netlify ma użyć. Zmień w razie potrzeby.
+  HUGO_VERSION = "0.111.3"
+  HUGO_ENV = "production"
+  HUGO_ENABLE_GIT_INFO = "true"
