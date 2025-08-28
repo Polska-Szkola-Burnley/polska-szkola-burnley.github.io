@@ -22,5 +22,6 @@ Czesne należy wpłacić na konto szkoły:
 | Czwarte i kolejne dziecko| Bez opłat|
 
 ### Dodatkowe, jednorazowe opłaty tylko dla nowych uczniów
+
 - £10 - wpisowe,
 - £10 - ubezpieczenie.
