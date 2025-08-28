@@ -3,6 +3,10 @@ backend:
   name: git-gateway # Używamy bramy Git od Netlify
   branch: main # Nazwa Twojej głównej gałęzi (może być też 'master')
 
+# Gdzie przechowywać media (np. obrazki wgrywane w postach)
+media_folder: "static/images/uploads" # Ścieżka zapisu obrazków
+public_folder: "/images/uploads" # Jak odnosić się do obrazków w treści wpisu
+
 # Definicja kolekcji - czyli typów treści, które można edytować.
 # Możesz tu dodać np. "Strony", "Projekty" itp.
 collections:
