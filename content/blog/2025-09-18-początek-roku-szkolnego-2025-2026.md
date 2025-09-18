@@ -1,7 +1,7 @@
 ---
 title: Początek Roku szkolnego 2025/2026
 date: 2025-09-18T21:19:00.000+01:00
-categories = ["wydarzenia"]
+categories ["wydarzenia"]
 draft: false
 ---
 13 września rozpoczęliśmy kolejny rok szkolny, 2025/26. Stęskniliśmy się za naszymi uczniami i mamy nadzieję, że oni również stęsknili się za sobotnimi spotkaniami w naszej szkole.🙂
