@@ -20,6 +20,6 @@ collections:
     fields: # Pola do wypełnienia dla każdego wpisu
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
-      - { label: "Kategoria", name: "categories", widget: "select", options: ["Wydarzenie", "Ogłoszenie"] }
+      - { label: "Kategoria", name: "categories", widget: "select", options: ["Wydarzenia", "Ogłoszenia"] }
       - { label: "Wersja robocza (Draft)", name: "draft", widget: "boolean", default: true }
       - { label: "Treść", name: "body", widget: "markdown" }
