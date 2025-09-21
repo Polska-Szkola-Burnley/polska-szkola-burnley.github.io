@@ -1,3 +1,4 @@
+#local_backend: true
 # Konfiguracja backendu - mówimy CMS-owi, jak ma się łączyć z GitHubem
 backend:
   name: git-gateway # Używamy bramy Git od Netlify
@@ -15,11 +16,14 @@ collections:
     folder: "content/blog" # Folder, w którym są pliki z wpisami
     create: true # Pozwól na tworzenie nowych wpisów
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Szablon nazwy dla nowych plików
+    frontmatter_format: "toml" # Określenie formatu frontmatter na TOML
     media_folder: "static/images/{{slug}}" # Ścieżka zapisu obrazków
     public_folder: "/images/{{slug}}" # Jak odnosić się do obrazków w treści wpisu
     fields: # Pola do wypełnienia dla każdego wpisu
       - { label: "Tytuł", name: "title", widget: "string" }
       - { label: "Data publikacji", name: "date", widget: "datetime" }
-      - { label: "Kategoria", name: "categories", widget: "select", options: ["Wydarzenia", "Ogłoszenia"] }
+      - { label: "Kategoria", name: "categories", widget: "select", options: ["Wydarzenia", "Ogłoszenia"], multiple: true }
+      - { label: "Autorzy", name: "authors", widget: "select", options: ["mgr Monika Deptuś"], multiple: true, required: false }
+      - { name: "banner", widget: "hidden", default: "images/baner.jpg" }
       - { label: "Wersja robocza (Draft)", name: "draft", widget: "boolean", default: true }
       - { label: "Treść", name: "body", widget: "markdown" }
