@@ -20,7 +20,7 @@ exports.handler = async (event, context) => {
     // treść maila
     let mailOptions = {
       from: `"Polska Szkoła w Burnley" <${process.env.EMAIL_USER}>`,
-      to: "maciek.kucharski@gmail.com", // tu ma przychodzić zgłoszenie
+      to: "mondep@wp.pl", // tu ma przychodzić zgłoszenie
       subject: "Nowe zgłoszenie dziecka",
       text: `
 Nowe zgłoszenie dziecka:
