@@ -5,7 +5,7 @@ description: "Poznaj wykwalifikowaną kadrę pedagogiczną Polskiej Szkoły w Bu
 draft: false
 type: "page"
 ---
-2025/2026
+# Rok szkolny 2025/2026
 
 | Klasa | Wychowawcy |
 |-------|------------|
@@ -20,7 +20,7 @@ type: "page"
 | Klasa GCSE/A-level | P. Monika Oślizło |
 
 
-2024/2025
+# Rok szkolny 2024/2025
 
 - Grupa 4-latków/ „Zerówka” – **Agnieszka Clapham** – wychowawca, **Agata Smolarczyk** – asystentka, **Julia Pasiewicz** – asystentka
 - Klasa 1 – **Ewelina Pasiewicz** – wychowawca 
