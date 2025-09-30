@@ -5,6 +5,22 @@ description: "Poznaj wykwalifikowaną kadrę pedagogiczną Polskiej Szkoły w Bu
 draft: false
 type: "page"
 ---
+2025/2026
+
+| Klasa | Wychowawcy |
+|-------|------------|
+| Grupa 4-latków i „Zerówka" | P. Agnieszka Clapham i P. Agata Smolarczyk |
+| Klasa 1 | P. Aleksandra Zarabska i P. Kinga Smith |
+| Klasa 2 | P. Ewelina Pasiewicz |
+| Klasa 3 | P. Aneta Różyc i P. Julia Pasiewicz |
+| Klasa 4 | P. Paulina Leszczyńska |
+| Klasa 5 | P. Barbara Kucharska |
+| Klasa 6 | P. Monika Deptuś |
+| Klasa 8 | P. Marta Kaczmarek |
+| Klasa GCSE/A-level | P. Monika Oślizło |
+
+
+2024/2025
 
 - Grupa 4-latków/ „Zerówka” – **Agnieszka Clapham** – wychowawca, **Agata Smolarczyk** – asystentka, **Julia Pasiewicz** – asystentka
 - Klasa 1 – **Ewelina Pasiewicz** – wychowawca 
