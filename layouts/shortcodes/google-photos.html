@@ -1,0 +1,20 @@
+{{/*
+  Shortcode do osadzania galerii Google Photos z pliku data/galleries.toml
+  Użycie: {{< google-photos "klucz_galerii" >}}
+  Przykład: {{< google-photos "wycieczka2025" >}}
+*/}}
+
+{{ $key := .Get 0 }}
+{{ $gallery := index .Site.Data.galleries $key }}
+
+{{ if not $gallery }}
+  {{ errorf "Nie znaleziono galerii o kluczu '%s' w pliku data/galleries.toml. Upewnij się, że galeria jest zdefiniowana w `data/galleries.toml`." $key }}
+{{ else }}
+  {{/* Wstawia cały blok HTML z pliku data */}}
+  {{ $gallery.html_block | safeHTML }}
+
+  {{/* Ten skrypt jest już w bloku HTML, ale zostawiamy logikę na przyszłość, gdybyś chciał ją zmienić */}}
+  {{ if not ($.Page.Scratch.Get "publicAlbumScriptLoaded") }}
+    {{ $.Page.Scratch.Set "publicAlbumScriptLoaded" true }}
+  {{ end }}
+{{ end }}
