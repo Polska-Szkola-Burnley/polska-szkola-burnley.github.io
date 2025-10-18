@@ -8,6 +8,6 @@
 # Ustawienia dla środowiska produkcyjnego
 [context.production.environment]
   # Określa wersję Hugo, której Netlify ma użyć. Zmień w razie potrzeby.
-  HUGO_VERSION = "0.149.0"
+  HUGO_VERSION = "0.151.2"
   HUGO_ENV = "production"
   HUGO_ENABLE_GIT_INFO = "true"
