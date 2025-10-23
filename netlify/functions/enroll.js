@@ -2,6 +2,13 @@ const querystring = require("querystring");
 const nodemailer = require("nodemailer");
 
 exports.handler = async (event, context) => {
+  // Jeśli event.body jest puste, zakończ funkcję
+  if (!event.body) {
+    return {
+      statusCode: 200,
+      body: "Brak danych do przetworzenia.",
+    };
+  }
   try {
     const data = querystring.parse(event.body);
 
