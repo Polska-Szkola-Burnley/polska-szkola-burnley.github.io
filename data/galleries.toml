@@ -1,4 +1,32 @@
 # data/galleries.toml
+[11listopada2025]
+html_block = '''
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipOGb_VtO6TL-cKE3fcunu9e9n6V2AwgRNfu3kFvL4eCKfcCxue8SmzkRW5cMbcFvQ?key=bUNwNmpmWjFMOFpwazA4REZFS3JDOWQ0QmtjeTBR"
+  data-background-color="#8ff0a4"
+  data-title="11 listopada 2025 · Saturday, Nov 8 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN88yleQk7Q4WLXzMxN9NHy5JrFRa66d3-Hcy4eq1O0l609TTvHX6Vi4dezeSaAlEfR1etsXuuzLWLxEV0nDZ_Ofq6wIHE7lOYZxqjIH-UVho1Jsw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPTe3YQSzzaIC7EMltw7ZuULWsvIPt6U-FZrg9zls0TPrwvI6aq-Oygnjm4Ps_5H8xQe9Gt4pB0FvBOEp6E9F8tGCaVLIzpmmBDetn4AblIYtXBqg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM5IxKzFqX0FAmTq9nW5Ixi9zF3CNAlpGVJLTbx05TDiovA5bP6WReRsncoehZttyfp4rW-Mqvu8qoR5GtVnkOLJ2Oo3hQTn7LN4BFHfMRW67DsnA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN7vzLw9ZzMAWuX1wyIVDdGG3zFztG0nNGfwvXkcetpOGzQurEMDVcNScVRQeNx2-sKfBLjoI3sdqYRVpDLS9deLE4_R2VAVnN5VFz09rPznjGXPQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMkJbTXyhqDbTyn1t95GVIy4W_FfTTWVCGbuv8FTBT7xRgx_ifCy1oWbZHFAPTO0hw5ppQ2fs9-o4SdOT-aeVFu0ffFAdD77qCNed9c07s8hEE9lA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNDdkx_7Z5jvZNQs5uiYhnjOK23LFLwSHHWQCKuXJzCkAvgoI_d8nsvIKdLE0rKoXX51i7VZhbFuEiAHFSrK3D1UQyIe7qMaJdvT2pHCY6XZWXSBQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOVKCr3uy6bC7LdMBwwKpI0We_HdoyR59NaJr_-WlfXgIU3lFFBV6SS8udc9YQVdtgwVEwaLzyqmE-DXyBc_65Ed4Y1q1xYYYYPQvEo7t1QaVpQVQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOKqpbtd68st9K1L0cpPM8fMzxIvtDzKaHB5YXkxidF8cqdvnsHRIVHisTFmRfxqgxaxThszE7dZrt9PIyxdHbVfQzw83E9lcrxohUK-7aJmAsIFw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMqicnJFfdUWdaYwkEZAb8afVAbVDaQ5vKA4WK22yX4A5KqYM_ibWuojDinpyo8qwhcqOg_4_Fln6WzkLHmRD9GFk7vf9qom8qpDDckfaRHyMqs4g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMACDXfwnE3piEz9hIhP6S17GmLvrT-9fAWM2cg2zMca4VmOwK4BU3xq_qgdZ4FyGTxHORtVWKaRR5p4W5rAbAkFgDBKJJJipKvSc_BNBHjkQpBJA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczORSO5mrIwsVZNSxUtJjJqbSBLxAcwUzcQUqM6yWjLdsDlNUsUO4E_Dycoe3Y4lmMMk_4GqwIFvlwEF3qwrP_g3WWO8qGE1ycLmGDlOrcRhKoAxdA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM-zIwTLQrYofSAFgplEgT8DB-o0QdB6_QGoh12InoenrKi-8VJUD_AAgQPiNjjpP0YqxbO65U9CLWELLK3sJxrLuOJ8A6oLhNkIpiKOnm7-wr6ug=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPmx8qGVzpRDZiZ217ZtLvxq9UsD6suWour0NPznQ-lAZ8ema7Vvgu2okMq5im4O8Cxhgno7kdXtn5dGvGfmGP6EFCdvhtQkjvm1ESdCAEUS-Y4_g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM37SqOWYYYzO9w96OecZCh1O6VCV-bKxh9iZVw1Qv-n_HP3eKsp0XDALwEjRbz_evIqCtchov_ChQs_EopREj4KHTYbHLOB4LPcIz5cqpR2Q9_rQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPEGMPM9d9iY8qBuR5qygajAG9agWyNcXe6J4P60ycVCjxfxq8yPWgx3_zTFUtvqsTWoc3UDsB-g5uglGKz084nZZXXDQ0Ye6DoEp0PsG_5xp_ewQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMb1ijNVPBLZv20OZ-bc-3yR_pj9jlDF6bNORqGlWwI0jhInB9WHxykcVN8T6bQGb_CE0qiLg10soyvluJ72lZtQ_DvTstv7A3Kn3d0oVZvoMs6fw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPRDcLHfDKDCxRD0eoSs4BwwY-hHQ8GKwNYlJMUumHPXIsSVZMW3ZdDmnXPGu5O4FZFJPaSt0_n90T8_-7k7-khZwpNTBmkZHZYg6DI_GnayxM27g=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPiw6UB53dm8zI34K-ZsszGhcFX75NqgVh5G9hXtCvqB-Xe1xxoxELD1aJwuJV5JW-RpguCbGTrLjAE55Q2qyYkDm1UGIliZGkPTCmpf17-8jRAJg=w1920-h1080"></object>
+</div>
+'''
 
 [wycieczka2025]
 html_block = '''
