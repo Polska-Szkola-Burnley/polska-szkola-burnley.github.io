@@ -62,6 +62,7 @@ html_block = '''
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNsHOKHMWWVOmk9o5JUZg39QVI-uCEP8Vz-JPjGbWrMIYe1TxGjClyC2p02G5LMVgUDv9kjtjCV-fPN7Ksddfp1VkL7SQyfBo5jPzre0PMJFsGyDP6e=w1920-h1080"></object>
 </div>
 '''
+
 [dzien-nauczyciela-2025]
 html_block = '''
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
@@ -85,5 +86,21 @@ html_block = '''
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOh6J646EKjaMLluEfJvFUdf-a6fjN5C4w2Z_wCkrXmG_7NKDH-79IU2wAYjf488ecgoyKJ5tN7wKNfmn_skHyPf9q9mX0igAhfHqbo0f0ubd3VEQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczN8rCb1fCoTnYaAY7-lsjkMHuO3D7dXEs0xkyEgye3lxbgKWc7olHnugZQTu1rjd3bD7qThMGm3Fi9ZpgNqwqvQYNCcp-855pKjFfZmrJif_aR-yQ=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOH_Cx7ZtgRdj8IAlz-GUEVIA-NbH7fYD-HFbkyHewbK5njOWXGrkOkXWZk8uU3en0XQoacm0BJkNfUbAafQOLWM9NtJySFhbF02Fug-s2gp8mNiQ=w1920-h1080"></object>
+</div>
+'''
+
+[Judo2025]
+html_block = '''
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipPCRCDOIo3Hi2fXT6OdvgPpLYifis9mEeS2GPgHrvSJk7Ed9Ve-As1Zn3xciFeJow?key=bXpGNVp2Z09NRmw4OEt5SkNObWxyRHFEcUtpNXpB"
+  data-background-color="#26a269"
+  data-title="Judo · Monday, Dec 22 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOKRb3cB5cKTya-DIjBn30U73IXNb5W_GsXnT7mlbrFc-uM8TV3n5KW5aMbMut7tind7uCZmtv6nVmlLl2kSPeCoUV-wPKvyFbyswU1d4vHICdsHw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO7otHY9BGcs4OPD09MrqNIv88bqnJkC29QyZW0aX-dpOKivo6cvUmN7qCicqwEGnJXBoLcqxru5bp1HoHU6FEREZ_U8uQSZ-NQlRcWvw1OuedPsA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOfYJzveyEU11oYsacViETX7WeYmKdABkq-le7AmxDQCeuXtmCaCtNLTKRrtMD9ihcFHKBGXGlbHgK4RvR3xOQykbCsyGwPCFw_IFnyhLhMYYtZqw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMS5yme4kGM-0H1xtZnKAQoxAjA7tsC53LmnPg6H1OiiOxBiT7Ezn30y5GoKE_c3gcg0e1SE_nUlgEMSGHsxaZ_H3h3xqYP65haEsRs9K6aG2QEjQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP8bhx1ZSgfMGVLzJbzIr5d0v_u-ZNDmfNQ1EAnOU-FeqJD6Nq8nAQ28BvbB6ICmc8-d8ahoXzzWzFBHTRCLZUHYfIr2b5uv63thEIbRR75uhL0gQ=w1920-h1080"></object>
 </div>
 '''
