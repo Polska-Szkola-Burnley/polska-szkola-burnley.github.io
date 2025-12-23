@@ -107,6 +107,11 @@ summaryLength = 20
     url        = "/dla-rodzicow/wniosek_o_legitymacje"
     weight     = 6
     parent     = "dla rodziców"
+# [[menu.main]]
+#    name       = "Instrukcja DISCORD"
+#    url        = "/dla-rodzicow/instrukcja"
+#    weight     = 7
+#    parent     = "dla rodziców"
     
 [[menu.main]]
     name       = "Wydarzenia"
