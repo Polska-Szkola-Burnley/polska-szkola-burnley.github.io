@@ -101,3 +101,20 @@
 {{ end }}
 <meta name="twitter:description" content="{{ $description_plain | truncate 200 }}">
 {{ with .Param "twitter_author" }}<meta name="twitter:creator" content="@{{ . }}">{{ end }}
+
+<!-- PWA / TWA Configuration -->
+<link rel="manifest" href="/manifest.json">
+
+<!-- OneSignal & PWA Service Worker Registration -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  window.OneSignalDeferred = window.OneSignalDeferred || [];
+  OneSignalDeferred.push(function(OneSignal) {
+    OneSignal.init({
+      appId: "cd56c21b-aaa8-47c9-a287-f49b3fd4c852",
+      serviceWorker: {
+          path: "/sw.js", 
+      }
+    });
+  });
+</script>
