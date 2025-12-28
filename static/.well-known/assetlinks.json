@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.polskaszkolaburnley.twa",
+      "package_name": "uk.co.polska_szkola_burnley.twa",
       "sha256_cert_fingerprints": [
-        "TU_WSTAW_SWOJ_ODCISK_SHA256_Z_ANDROID_STUDIO_LUB_GOOGLE_PLAY"
+        "99:F1:4D:FE:23:EA:DC:98:42:12:0E:47:72:DC:AC:AA:A6:9C:CC:78:D6:5F:6B:CB:8D:08:A3:75:D6:82:49:A6"
       ]
     }
   }
