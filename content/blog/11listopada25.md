@@ -7,7 +7,8 @@ banner = "https://lh3.googleusercontent.com/pw/AP1GczNDdkx_7Z5jvZNQs5uiYhnjOK23L
 +++
 
 11XI 2025, czyli dzisiaj obchodzimy 107 rocznicę odzyskania  niepodległości. W naszym kraju jest to dzień wolny od pracy i dlatego Polacy mogą wyjść na ulice w pochodzie wdzięczności, spotkać się z bliskimi i świętować WOLNOŚĆ, którą nasi dziadowie wywalczyli dla nas po długich 123 latach niewoli. 
-Nasza Polska Szkola W Burnley zorganizowała już po raz ósmy Marsz Niepodległości. Odbył się on w ostatnią sobotę - 08/11, wtedy kiedy mamy zajęcia w szkole i większość ma wolne w pracy. 
+Nasza Polska Szkola W Burnley zorganizowała już po raz ósmy Marsz Niepodległości. Odbył się on w ostatnią sobotę - 08/11, wtedy kiedy mamy zajęcia w szkole i większość ma wolne w pracy.
+<!--more-->
 Bez względu na wyznanie i poglądy polityczne, razem udaliśmy się do pobliskiego parku na Apel zorganizowany przez najstarszych uczniów naszej szkoły. Spektakl poruszył nasze serca. Chwała wszystkim tym, którzy walczyli o Naszą Wolną Ojczyznę. Dziękujemy.
 
 11 XI to nie tylko Marsz Niepodległości czy Akademia, ale również przygotowanie się do tego wydarzenia na zajęciach poprzedzających uroczystość. 
