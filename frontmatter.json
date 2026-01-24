@@ -1,0 +1,72 @@
+{
+  "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.contentTypes": [
+    {
+      "name": "default",
+      "pageBundle": false,
+      "previewPath": "/blog/",
+      "fields": [
+        {
+          "title": "Tytuł",
+          "name": "title",
+          "type": "string"
+        },
+        {
+          "title": "Opis",
+          "name": "description",
+          "type": "string"
+        },
+        {
+          "title": "Data publikacji",
+          "name": "date",
+          "type": "datetime",
+          "default": "{{now}}",
+          "isPublishDate": true
+        },
+        {
+          "title": "Is in draft",
+          "name": "draft",
+          "type": "draft"
+        },
+        {
+          "title": "Kategorie",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "Autorzy",
+          "name": "authors",
+          "type": "choice",
+          "multiple": true,
+          "choices": [
+            "mgr Monika Deptuś",
+            "mgr Barbara Kucharska",
+            "mgr Aleksandra Zarabska",
+            "Marta Kaczmarek",
+            "Monika Oślizło",
+            "Paulina Leszczyńska",
+            "Aneta Różyc",
+            "Ewelina Pasiewicz",
+            "Agnieszka Clapham"
+          ]
+        },
+        {
+          "title": "Banner",
+          "name": "banner",
+          "type": "image",
+          "default": "/images/budynek_szkoly2.jpg"
+        }
+      ]
+    }
+  ],
+  "frontMatter.framework.id": "hugo",
+  "frontMatter.content.publicFolder": "static",
+  "frontMatter.preview.host": "http://localhost:1313",
+  "frontMatter.content.pageFolders": [
+    {
+      "title": "blog",
+      "path": "[[workspace]]/content/blog"
+    }
+  ],
+  "frontMatter.git.enabled": true
+}
