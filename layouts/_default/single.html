@@ -1,121 +1,95 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  <head>
-    {{ partial "headers.html" . }}
-    {{ partial "custom_headers.html" . }}
+<head>
+  {{ partial "headers.html" . }}
+  {{ partial "custom_headers.html" . }}
 
-  </head>
+</head>
 
-  <body>
+<body>
 
-    <div id="all">
+  <div id="all">
 
-        {{ partial "top.html" . }}
+    {{ partial "top.html" . }}
 
-        {{ partial "nav.html" . }}
+    {{ partial "nav.html" . }}
 
-        {{ partial "breadcrumbs.html" . }}
+    {{ partial "breadcrumbs.html" . }}
 
-        <div id="content">
-            <div class="container">
+    <div id="content">
+      <div class="container">
 
-                <div class="row">
+        <div class="row">
 
-                    <!-- *** LEFT COLUMN *** -->
+          <!-- *** LEFT COLUMN *** -->
 
-                    <div class="col-md-9" id="blog-post">
+          <div class="col-md-9" id="blog-post">
 
-                        {{ if or .Params.author .Params.date }}
-                          <p class="text-muted text-uppercase mb-small text-right">
-                            {{ if isset .Params "authors" }}
-			      {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a href="{{ (printf "%s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
-                            {{ end }}
-                            {{ if and .Params.author .Params.date }} | {{ end }}
-                            {{ if .Params.date }}
-                              {{ $createdAt := .Date.Format .Site.Params.date_format }}
-                              {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August" "September" "October" "November" "December" }}
-                                  {{ $createdAt = replace $createdAt $month (i18n $month) }}
-                              {{ end }}
-                              {{ $createdAt }}
-                            {{ end }}
-                          </p>
-                        {{ end }}
+            {{ if or .Params.author .Params.date }}
+            <p class="text-muted text-uppercase mb-small text-right">
+              {{ if isset .Params "authors" }}
+              {{ i18n "authorBy" }} {{ range $index, $author := .Params.authors }}{{ if $index }}, {{ end }}<a
+                href="{{ (printf " %s/%s" ("authors" | relLangURL) ($author | urlize)) }}">{{ $author }}</a>{{ end }}
+              {{ end }}
+              {{ if and .Params.author .Params.date }} | {{ end }}
+              {{ if .Params.date }}
+              {{ $createdAt := .Date.Format .Site.Params.date_format }}
+              {{ range $index, $month := slice "January" "February" "March" "April" "May" "June" "July" "August"
+              "September" "October" "November" "December" }}
+              {{ $createdAt = replace $createdAt $month (i18n $month) }}
+              {{ end }}
+              {{ $createdAt }}
+              {{ end }}
+            </p>
+            {{ end }}
 
-                        <div id="post-content">
-                          {{ .Content }}
-                        </div>
-                        <!-- /#post-content -->
-                        {{ if .Site.Config.Services.Disqus.Shortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" . }}
-                        </div>
-                        {{ end }}
-
-                    </div>
-                    <!-- /#blog-post -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN *** -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-                        {{ partial "facebook-share-button.html" . }}
-                        
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
-
-                </div>
-                <!-- /.row -->
+            <div id="post-content">
+              {{ .Content }}
             </div>
-            <!-- /.container -->
-        </div>
-        <!-- /#content -->
-        <!-- Comments by Cusdis -->
-        <h4 style="text-decoration: underline; 
-        text-decoration-color: rgb(36,137,59); 
-        text-decoration-thickness: 5px; 
-        text-underline-offset: 14px; 
-        text-transform: uppercase;
-        margin: 5%; /* Marginesy wokół kontenera */
-        ">
-        Zostaw komentarz
-        </h4>
-        <style>
-          #cusdis_thread {
-            margin: 6%; /* Marginesy wokół kontenera */
-          }
-          #cusdis_thread iframe {
-            min-height: 400px; /* Wysokość formularza */
-          }
-        </style>
-        <div id="cusdis_thread" data-host="https://cusdis.com"
-        data-app-id="ff66eb24-fa8a-4336-9f63-bea82a6dbf43"
-        data-page-id="{{ .File.UniqueID }}" 
-        data-page-url="{{ .Permalink }}"
-        data-page-title="{{ .Title }}"
-        data-lang="pl"
-        > 
-        </div>
-        <script defer src="https://cusdis.com/js/widget/lang/pl"></script>
-        <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+            <!-- /#post-content -->
 
-        {{ partial "footer.html" . }}
+            {{ partial "cusdis.html" . }}
 
+            {{ if .Site.Config.Services.Disqus.Shortname }}
+            <div id="comments">
+              {{ template "_internal/disqus.html" . }}
+            </div>
+            {{ end }}
+
+          </div>
+          <!-- /#blog-post -->
+
+          <!-- *** RIGHT COLUMN *** -->
+
+          <div class="col-md-3">
+
+            <!-- *** MENUS AND WIDGETS *** -->
+            {{ partial "facebook-share-button.html" . }}
+
+            {{ partial "sidebar.html" . }}
+
+            <!-- *** MENUS AND FILTERS END *** -->
+
+          </div>
+          <!-- /.col-md-3 -->
+
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
     </div>
-    <!-- /#all -->
+    <!-- /#content -->
 
-    {{ partial "scripts.html" . }}
+    {{ partial "footer.html" . }}
 
-    <script src="{{ "js/block-cookie.js" | relURL }}"></script>
+  </div>
+  <!-- /#all -->
 
-  </body>
+  {{ partial "scripts.html" . }}
+
+  <script src="{{ " js/block-cookie.js" | relURL }}"></script>
+
+</body>
+
 </html>

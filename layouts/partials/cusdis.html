@@ -1,0 +1,44 @@
+<div id="comments" style="margin-top: 3em;">
+    <h4 style="text-decoration: underline; 
+        text-decoration-color: rgb(36,137,59); 
+        text-decoration-thickness: 5px; 
+        text-underline-offset: 14px; 
+        text-transform: uppercase;
+        margin-bottom: 25px;
+        ">
+        Zostaw komentarz
+    </h4>
+
+    <style>
+        #cusdis_thread {
+            margin: 1.5rem 0;
+        }
+
+        #cusdis_thread iframe {
+            min-height: 400px;
+            width: 100% !important;
+        }
+    </style>
+
+    <div id="cusdis_thread" data-host="https://cusdis.com" data-app-id="ff66eb24-fa8a-4336-9f63-bea82a6dbf43"
+        data-page-id="{{ .File.UniqueID }}" data-page-url="{{ .Permalink }}" data-page-title="{{ .Title }}"
+        data-lang="pl">
+    </div>
+    <script>
+        window.CUSDIS_LOCALE = {
+            powered_by: 'Powered by Cusdis',
+            post_comment: 'Prześlij komentarz',
+            loading: 'Wczytywanie',
+            email: 'Email (opcjonalnie)',
+            nickname: 'Nickname',
+            reply_placeholder: 'Treść...',
+            reply_btn: 'Odpowiedz',
+            sending: 'wysyłanie...',
+            mod_badge: 'MOD',
+            content_is_required: 'Uzupełnij treść komentarza',
+            nickname_is_required: 'Pole Nickname jest wymagane',
+            comment_has_been_sent: 'Twój komentarz został przesłany. Oczekuje na zatwierdzenie.',
+        }
+    </script>
+    <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+</div>
