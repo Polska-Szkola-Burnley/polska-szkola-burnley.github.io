@@ -123,3 +123,24 @@ html_block = '''
   <object data="https://lh3.googleusercontent.com/pw/AP1GczPjsfu8U_oBvm3-mMnUfCn5w5gG1Lxy04k2Qy1etLfxabcrhZuLGZEWpK0VAg2TamssBcBi7Qne2mLqysFr61SRTe3jw1q2Fdwj-7Wb07JZfB6wKA=w1920-h1080"></object>
 </div>
 ''' 
+
+[Wigilia2025]
+html_block = '''
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipPbSI0lsLsvxdwLgwdh3q7cOvsZACI6k28pNLCKiqSyUpmOI7zda0pIDsBrfvHytw?key=NVE2XzFmLVdCb0dpVGsyT3c4Mm5PNDVCd2pWLU93"
+  data-background-color="#26a269"
+  data-title="Wigilia 2025 · Thursday, Jan 29 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOQfiBzlWzbZ9Jja9wAWCQGWSQvqPUkQnAl-Z8udQScpHaEi2_ZX3W53sI_i5NhIon2TsdCI2ndwhb0opHw0MiLS4le1B5LwjDC0UEfnSOHV0-EZKE=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPu0PGdyksD-QpNdhZxwWD7HDICbQ4URpb9BRk_dSowijSJL6mqigxvvNr1FbvGHOdwIfjrnFv1KgSvTEszXeu_hBKoSCpMucxqjLQHrYJuhFui72Q=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPXhLwrcSrV6YYyA8iWbNpfNcCE8LGKFFkan44qmsIAD6jEjHgqwJxiCrRbBt64pmCEnhaVqNM3MwZkKjYJ02EAjphWBYw_ZE_KbL2f4rMDbLcggTc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPqzt42g80NzPjGWrYFKCikxOXM3jfPMqswHN73dP13AInZuY8Cc9h76CBGkNv-_9vj9dF41sSzq3N_EnBxQPxpMfdKX4Yl_nRKsld2GoixMEV9tto=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOFO9MYWMMaMEmKenH6KAxZtuQHK5Sm4vdIE83zxXUMNH36gVnGNwjRKkHKRxYGM4W_mODDhePvGiNMPP_5Zb4H4mXx5sWXOEcl6O9hj0UKYRvLvW0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPQunpzti2_TWbstUhdcfGvnHSbi2IITTbYmZk8SvNB4Y94mQad5YPZYyBGMnuJkg2lfHr-EM2wtpn7oGujJT5y9L6xIIRaGBMpfsBKMABhW229po4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNFZf1qmSA7qdq1tWykNS9CFZCew-0yK9LSOl0ZphZ3GLjZCvV9_1inkHeHWPln_ijGRZlVUGMvWiKZdUAu0iEdyfgja7E9roXUwvnazjGixuDnCaY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMYBC_PRfjkTenu1B9e6CuhqizFfppgqj59T6EK0lvl8hiYCGOpGoCEkyxKemm1cOmB1UnWRU4Fs2U_D9cGd75-ezcvw6q2G_vqymx7qsHhDcWMsYU=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMqmK2m5ltSGbRY7foGN-YCdV1SYGU8Ptuh7JyDtbVEI-U5yB6uXxY3QVcZaEcRxEaANmmYHtVE8kIfkzyD2zxveS-u203qOjW6JZCWsMwzWMjEqhk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMuluj4InqO7vc-usOLDuQ-3CGJYRZLDgxVBJcYkYvCAPvrY0qJN2eEXgIJxr0gzmgthPQnratm6JkGX60NW21QrL9JAq-7nlSgApSYOZja-If5p5c=w1920-h1080"></object>
+</div>
+'''
