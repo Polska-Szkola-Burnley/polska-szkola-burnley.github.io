@@ -1,5 +1,5 @@
 ---
-title: "Bon Naukowy"
+title: "Dofinansowanie!"
 date: 2025-12-28T18:39:00+01:00
 categories:
   - "ogłoszenia"
