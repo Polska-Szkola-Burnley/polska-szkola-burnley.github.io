@@ -144,3 +144,19 @@ html_block = '''
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMuluj4InqO7vc-usOLDuQ-3CGJYRZLDgxVBJcYkYvCAPvrY0qJN2eEXgIJxr0gzmgthPQnratm6JkGX60NW21QrL9JAq-7nlSgApSYOZja-If5p5c=w1920-h1080"></object>
 </div>
 '''
+
+[Bon_naukowy_2025]
+html_block = '''
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipN2VBGchLs2Kzwu6c48r5Y1ffPZ0eZj-879WWMnb9e8YI7wX1Osr6te3-DPtbQ4XA?key=Z1FKNEdUTFNmS284ZnZzOEVtOFlGcnhyRUIxOHZR"
+  data-background-color="#813d9c"
+  data-title="Bon Naukowy 2025 · Saturday, Jan 31 📸"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPwRNBq3cHf9Nx9SkoLIndOuv0tA7GL6j0ViE1jCg0corL0oKQQNp8ru0x3oQBjokUDF51qpYS6BeYCez1AI_Sv4YS651CPMa538o_DfSsx5cKrHiQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNauRyIgiTpRB8HiTDMB3_LrnDUYXuYGAVVeyQbMV2h47o2QRbIb9k5vjVSyjDBx1y8hvxQ3JovKW28Pext3uN0H9l-ifpdM0959zV8uHuwcYoXjN8=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM5y6NowcyQuXCMt7mgmlI4RGPZkbUvZRKwl-2DddLbihik0COaFyrQXa0Vlr8P9G0iHbDx89PFAQSS8mx9WskoQX4GVvoeIGHWtExZj52qcDJ9SIQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNeurPOVYoW2vk2j3oupNRivat6sYxAIAHiXz20KhTXIgXq7aSz3ABsCFqFfNCpjG0UtNPcvwDDDIgElaLyh9il-yB0XMx5inFJRCP4Vdpy0AANLog=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMKPmCMdh1QhWJqEyujk7y4yD8U2iLOejZcpMqJUgUjXWUKVhF17yy_XFArdnrDXIu67FSuacjtlHDxdDulNi1GUABHcQzHrLq22rBRBAX3E049JP4=w1920-h1080"></object>
+</div>
+'''
