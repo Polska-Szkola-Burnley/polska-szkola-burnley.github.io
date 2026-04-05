@@ -25,7 +25,7 @@ summaryLength = 20
     date_format = "02.01.2006"
     viewMorePostLink = "/blog/"
     mainSections = ["blog"]
-    copyright = "© Polska Szkoła w Burnley 2025"
+    copyright = "© Polska Szkoła w Burnley 2026"
     css = ["css/custom.css"]
     defaultDescription = "Odkryj Polską Szkołę Sobotnią w Burnley! Zapewniamy kreatywne lekcje polskiego, historii i sztuki w przyjaznej atmosferze. Dbamy o rozwój Twojego dziecka. Dowiedz się więcej!"
 

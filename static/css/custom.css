@@ -1,10 +1,123 @@
+/* --- ISTNIEJĄCY KOD --- */
 .float-left {
     float: left;
     margin-right: 15px;
     margin-bottom: 10px;
     max-width: 40%;
-  }
-.facebook-share-button i {
-  margin-right: 0.5em; /* Dostosuj wartość do potrzeb */
 }
-  
+.facebook-share-button i {
+    margin-right: 0.5em; /* Dostosuj wartość do potrzeb */
+}
+
+/* =========================================================================
+   NOWY PROFESJONALNY WYGLĄD (MODERNIZATION UPDATE)
+   Poniższy kod nadpisuje domyślne style motywu, aby strona była bardziej
+   nowoczesna, czytelna i elegancka.
+   ========================================================================= */
+
+/* 1. Typografia (Nowoczesna czcionka Inter z Google Fonts) */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif !important;
+    line-height: 1.65 !important;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: 'Inter', sans-serif !important;
+    font-weight: 600 !important;
+    letter-spacing: -0.025em;
+}
+
+/* 2. Przyciski (Zaokrąglone, z ładnymi cieniami i animacją najechania) */
+.btn-template-main, .btn {
+    border-radius: 6px !important;
+    transition: all 0.25s ease !important;
+    font-weight: 500 !important;
+    border: none !important;
+}
+
+.btn-template-main:hover, .btn:hover {
+    transform: translateY(-2px); /* Lekkie podniesienie przycisku... */
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15) !important; /* ...i dodanie cienia pod spodem */
+}
+
+/* 3. Karty Wpisów i Aktualności (Lekkie, w stylu Glassmorphism/Flat) */
+.box-image, .box-image-text, .post {
+    border-radius: 12px !important;
+    overflow: hidden;
+    border: none !important;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03) !important;
+    transition: all 0.3s ease !important;
+    background: #ffffff !important;
+    margin-bottom: 30px !important;
+}
+
+.box-image:hover, .box-image-text:hover, .post:hover {
+    transform: translateY(-4px); /* Efekt "podnoszenia" karty wiadomości gdy użytkownik skieruje na nią kursor */
+    box-shadow: 0 12px 20px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05) !important;
+}
+
+/* Usunięcie ostrych, starych krawędzi we wnętrzach kart */
+.box-image-text .content {
+    border: none !important; 
+}
+
+/* 4. Zdjęcia na stronie (Eleganckie zaokrąglenia i spójność) */
+img {
+    border-radius: 8px; /* Lekko obłe rogi na na wszystkich obrazkach we wpisach */
+}
+
+/* Styl dla specjalnego baneru we wpisach, nad którym ostatnio pracowałeś */
+.image-banner {
+    width: 100%;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.08); /* Miękki, elegancki cień wokół głownego obrazka */
+    margin-bottom: 25px;
+    object-fit: cover;
+}
+
+/* 5. Górny pasek nawigacyjny & Kontaktowych (Lżejszy, spójny wygląd) */
+#top {
+    background: #1e293b !important; /* Świeży, lekko grafitowo-niebieski odcień (Slate) */
+    border-bottom: none !important;
+    padding: 10px 0;
+}
+
+#top p, #top a {
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    color: #e2e8f0; 
+}
+
+/* Główne menu strony (Navbar) */
+.navbar {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05) !important; /* Cień nadający "głębię" i oddzielający menu od reszty strony */
+    border: none !important;
+    border-radius: 0 !important;
+    margin-bottom: 0 !important;
+}
+
+/* 6. Ulepszone Odstępy (Spacing) - strona zaczyna "oddychać" */
+#content {
+    padding-top: 40px !important;
+    padding-bottom: 40px !important;
+}
+
+.heading {
+    margin-bottom: 30px !important;
+}
+
+.heading h1, .heading h2, .heading h3 {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #e2e8f0; /* Subtelna i czysta linia oddzielająca podziałki */
+}
+
+/* 7. Wyśrodkowanie i responsywność postów z Facebooka */
+iframe[src*="facebook.com/plugins"] {
+    display: block !important;
+    margin: 25px auto !important; /* Wyśrodkowanie iframe'u + górny i dolny margines */
+    max-width: 100% !important; /* Zapewnia, że na małych ekranach (telefonach) post nie będzie ucinał bocznych krawędzi (nie będzie poziomego suwaka) */
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08); /* Lekki cień, spójny z resztą strony */
+}
