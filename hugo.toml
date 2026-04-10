@@ -29,7 +29,7 @@ summaryLength = 20
     css = ["css/custom.css"]
     defaultDescription = "Odkryj Polską Szkołę Sobotnią w Burnley! Zapewniamy kreatywne lekcje polskiego, historii i sztuki w przyjaznej atmosferze. Dbamy o rozwój Twojego dziecka. Dowiedz się więcej!"
 
-    defaultKeywords = ["polska", "szkoła", "sobotnia", "burnley", "polish", "school", "saturday"]
+    defaultKeywords = ["polska", "szkoła", "sobotnia", "burnley", "polish", "school", "saturday", "skipton", "colne", "nelson", "blackburn", "accrington"]
 
 
 [menu]
