@@ -165,3 +165,116 @@ iframe[src*="facebook.com/plugins"] {
     padding-top: 10px !important;
     /* Domyślnie było to aż 60px */
 }
+
+/* 9. Wyrównanie kart aktualności (flex + aspect-ratio) */
+.box-image-text, .post {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important; /* Pozwala rozciągnąć karty do góry rzędu */
+}
+
+.box-image-text .content, .post .content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.box-image-text .content .read-more, .post .content .read-more {
+    margin-top: auto; /* Wypycha "Kontynuuj czytanie" na dół karty */
+}
+
+.box-image-text .image img, .post .image img {
+    width: 100% !important;
+    aspect-ratio: 16 / 9;
+    object-fit: cover !important;
+}
+
+/* 10. Usunięcie nadmiaru wielkich liter (ALL CAPS) dla lepszej czytelności */
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+.navbar-nav > li > a,
+.btn,
+.text-uppercase {
+    text-transform: none !important;
+    letter-spacing: normal !important;
+}
+
+/* 11. Poprawa użyteczności nawigacji mobilnej (Top Bar) */
+@media (max-width: 991px) {
+    #top a i.fas, #top a i.fab {
+        font-size: 1.5rem !important; /* Powiększenie ikon kontaktowych */
+    }
+    #top a {
+        padding: 10px 15px !important; /* Większy obszar do kliknięcia (tapnięcia) */
+        display: inline-block;
+    }
+    #top .social {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+}
+
+/* 12. Sekcja Sponsorów - wyrównanie logotypów */
+.customers img,
+.owl-carousel.customers img {
+    max-height: 100px !important;
+    width: auto !important;
+    margin: 0 auto !important;
+    object-fit: contain;
+}
+
+/* 13. Przycisk Powrotu do Góry (Back To Top) */
+html {
+    scroll-behavior: smooth;
+}
+#back-to-top {
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background: #1e293b; /* Główny kolor UI */
+    color: white;
+    width: 45px;
+    height: 45px;
+    text-align: center;
+    line-height: 45px;
+    border-radius: 50%;
+    z-index: 9999;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15);
+    transition: all 0.3s ease;
+    opacity: 0.8;
+}
+#back-to-top:hover {
+    background: #38bdf8;
+    color: white;
+    opacity: 1;
+    transform: translateY(-3px);
+}
+
+/* 14. Ostylowanie Tabel (np. Rada Rodziców, Nauczyciele) */
+#content table {
+    width: 100% !important;
+    margin-bottom: 30px;
+    background-color: #ffffff;
+    border-collapse: collapse;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+    border-radius: 8px;
+    overflow: hidden;
+    display: table; /* Hugo defaults to display block for tables sometimes */
+}
+#content table th {
+    background-color: #1e293b;
+    color: #ffffff;
+    padding: 15px;
+    font-weight: 500;
+    text-align: left;
+}
+#content table td {
+    padding: 12px 15px;
+    border-bottom: 1px solid #f1f5f9;
+}
+#content table tr:last-child td {
+    border-bottom: none;
+}
+#content table tr:hover {
+    background-color: #f8fafc;
+}
