@@ -2,7 +2,7 @@
 title: POLSKOŚĆ jest darem
 description: ""
 date: 2026-05-06T18:30:04.811Z
-draft: true
+draft: false
 categories:
     - wydarzenia
 authors:
