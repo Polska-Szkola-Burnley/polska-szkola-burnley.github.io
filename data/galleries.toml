@@ -160,4 +160,55 @@ html_block = '''
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMKPmCMdh1QhWJqEyujk7y4yD8U2iLOejZcpMqJUgUjXWUKVhF17yy_XFArdnrDXIu67FSuacjtlHDxdDulNi1GUABHcQzHrLq22rBRBAX3E049JP4=w1920-h1080"></object>
 </div>
 '''
-
+[Zakonczenie26]
+html_block = '''
+<script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
+<div class="pa-carousel-widget" style="width:100%; height:480px; display:none;"
+  data-link="https://photos.google.com/share/AF1QipP-6Oc50gu_A2kNnWpodMgaSYuF-tnWznT7MKrnwyXPLr3GbXzd3zwo897H7dekFA?key=QnowaXpLRU5WTlFDRjRsZTZrNUpOZjB5YkUzU0NR"
+  data-title="Zakończenie roku szkolnego 2025/2026"
+  data-description="Shared album · Tap to view!">
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOoK_SbCc9GnO6Z2fq54rT8Cixfub9cSgznvltaI0bSwllojSDv0q0uoCaCaNuKZNRMgZqp_G8Ft5zVlPCT-6aY4kXb31EwZ0XE0fnplsHrV3gDJjA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPJAAzWollvc9Px140SggxWILdRXBca3CHu-3mSTTQ7dNNrpkq6N3o50RN5mNd5kUjO9Pl_sSh1h9ULZi4VBNT6S2oho7-WUCy8jxDgP9dVcqgNg6M=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMR0X80vthDHiwK2FYHdAsfoRColK0yy8SRNZ8U5nDdEm0lksFAbRg77kCCu9NwS7wLSMmnfQ7OVrXv6bBEwkgbEPFoEzr6Tjm3tKxuoyOuBVdtqzs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPNtWxv7VblxH553sGwk56rxvtQIjkD3BmZ2AiviWgAXuSj8dKDmcEOsH_fH3lNOoCLuO7S72sCx4fGYrndwPyiJPog2y2IU9g_kc_NcTpoNvk4SoY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNhCeq02gvXsKzfmDRtifKEfMRE2JhZDHN1TS_x0dVNq96t0_qWnTIP1o1r5WdwboD-PFPLk-bhofN5BbczD2kDvZHN9r6hV0lb9A1D8PngZ09NGqw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN-BAGuqoeaVYRdKHleJQD5h3yG0BJ7dVcuaTsSyQKCslU39KvznVvCAcl-l5o2Fu2HH3d266ldiFVAFFqnx2Htmj_11KAEEzG1pGIy-3EpLpVY0qo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOugfYaFf2uXw9Q_bBcUokB2Z19txTJeYsqqcC7INrU-hy7lQKYeqHbaD3-R0OgLnrovxZyWp54XLarMN7e5N7vaxd_OuISq2_yLdDPWZSU-GHcpjw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOkUy7pw5qQtxrL8mWhna8jeNeuHCfM9hz5CmB_Upao-f0byl9KmceRqEUtw_5Epqx2cZ-eDJ5zwNs76ss5iTr_oNoWP6yhKl-fErWf2ynNyG1AaAk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMtNMunB5116kXoKPvpL3bz7GIwIp8-qfjAryTwWFUb0gW7q-y62GqbneFyAeN42cwba2jvFTK1kCXwT-0ArXaCbjAjO0FvdNFo3dyi8lJLuiPnA7k=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNprQSbcXYOeZP9R2SZoPlknRSjHaW_Oa4eoeBdXP5nZMJXNFjuMxnak_RZPHMytxGNOcrQPjqqqWdeBGqaB52bbdJNkiPfn_Fazwo-evdLI9CQikI=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO3nNFxekjiQfQmSKhyk0StysYHl2T58GXewDZdh4jKDObbkqf5G9dYsGokqdKTDkxPyzylVt8y4WPMhvIlBMDXyDB1aX8H3jDsna78Fc18bDV61Eo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOZLgs4o-DBtgs5VT6A6Rtwd7zRK_NJT-FwF_aEiwHGRB4QqBPtJlGvBupNMNrwwUpAok7CQNgLpbfdPglquWHGSOFLH13zaXQVQcfClnSmObLaE1o=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOvhwHibBKKWKr-93yexOaNM4uTTJl4YW6PytXBYQOIvY6L2fFrzWL-LSokTFGPl79byul_-c1IVDlCiPrI44FugWn-h-u_-0YgsCiLWP4xF2MFT34=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMeMX8xpk3pqmQheMsr0yjCkHiAGOV2gop3-ZnvdKERTXkZOx15Nzo6PWMhP3dc-W1LCa_cgNIZmAju31qRlg2mvtk0O06F1WKZg7gk62n30sEEKBs=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO1yZPBYXDIwUtGvYzbDBUUWEPbYDdDlBzBOtq_pNLACBnxKq59BkKnR1AROU_iu88EEyOsT8wGFvSkg3S7yPAiNsOHy-7fGUd9cFPqFSBfmBHIfFw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOqiEwtu48KvO5AvQQy6S0gGGmX1Q2iXqndNkMwI5R7OkwpF3gPpExvB33DVbhVDjvWRUWBLizwgbEYaxArK5VKJ7qY21ywQ-XVqO8Elpwhw15PVdM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOPu-T57cctABsMKdxEuDOfvGNWesM5WoMMUdovdTQPVwxF527Ls8Bik1gLD4RkfIZ1M_iwsw8chJ_7BMzSS7a6DliRaGTRxEFs_m1ZMzLKAY--DRQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP9i_dQRJ-gAY3fdG28GZ8P5K-Vh2o2R-OXPvJxkLh41hHk3Jd6-JANLyDztpD0X8THfsMV2W6fCdXx8yK7jxh9giyC110C0ERHRneB5FCtYRzD3Fg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMMGzv2R8uJjzUwyNLGKpC1-XP8n1N0qqqellVZoQ4DedRXJn-xiwstBKcke8Gh9lT5jAQovnGA1-Xd0H32JYN-Q8EGYvxtnVeivaIBoFFAqsiKnrg=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMQ0YN8ociJZJf0gpIcPhk0Ha8rInftPfBFjiSWAceFTO4h8FTAG0BVnb4MTLeRRYkighLAc4uAMNXnYJfyQexXn3OCSZ4PTRhLbUpAeQlDhYRc_iw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPhhGUw0dDCyg64K2W2LWpzaT9pm5kJrHDXlFp25YbU0rAjuJPhsdH3QMZCMBmYh-1Bhe5-pzFyiVXGZa-kIfB-0DE7jC48SR_cTNDpSCq08hNFymY=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPYXbzuMNLlLU9Cw8XyODNkARrW560cLi8ZS--EPNVda9ejMmkJ_TQRwoPafHsTvc6DJoHDlScqYbNCFja5D_sIO25u_w-4jvMnBqWQXLP0tZFcnxo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMd0DvcNzOkcC3buWVYW3ABWMkin30yR4nfOnAlLQHghI5RKqVS9PRWIvFi00Dd39HEA_I_e6QttfI87AWZp2sFG2wnGo0Hacj26fvixELG7Atr2X4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPMRQUyWXaLjtU20S4zhYVvrvSUlAqL9YhAbB2DrXkaMpW-WrN584dWMHEdI8O3HtxiFp2JOhoxktoemjmGt0oab0X8JtiKvkjjQMNUEM9ckE36oPQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMLJtE2VcCFDSu0tD8Eaz8fIviv_j0tuhIXv8AtjEftbakWi9LrzSB4Qce2v7Hks4oSZQL7ie5ios_6OB2qvZBlmuqNJxWEv4VIzSS1qGVwT-OKlq0=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP4MVDo9qxmiitm8uNy206UkTgfttV4d-Sn2nImrgGMwgvDs5EGxQM3R9KEAHSZOE4MYL8_ahVSbNRztNorG1ysT-cJ8gwVelwHjH7yeLggzgrqSb4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPI33gJ9KmgWsrHSgAFPAka0Rr7VEY7t3FRTiOFZbnH6KuDixC0n0ZnIeahhFVdi7EWT6ZE_eCDN7G_rtR0yV5As8nZ0HyFmr2CSYPHNZ49F4V9V6U=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczP85ljAEGBeTNGwARms24VUn8RA1gb6fAyqe7X3zVaM2Wkh92kIE1b-AzMjvnJh5yXnTUMkfTO3jlOsTlSfRYj5PYH8Y7rlJ_PrIi1KVrj8fWZEHYo=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPaIFJA47hSguDmzjaO4g_PgxZ8q6HLNYVG4LhsKkSW8Wv60aMxmE_T5VhIbfRy_GTbjMW8h6Ydaus1I7wAvhwANlL955eBHH4o9fMaz-__MiRAlYM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOJqtbXok0YUd9oPz59PiSkVOHoa2SSrmbWkfDmHvM8tPSNLzeqtUVNRXXZwE-a_eEIMeUW1mTInZo6CY2TKNYRC7PK2QciQM7KHcuERhzOfPxu6LA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPpUL2t-BER0B-QdyEa4gmvfTdntGOgO5Gdpcc7bcCGOnx-GTp-4mbow6v9qDdr2fKE8zXCLJtp98bTUD87qAa-ybOH_T1ZFfTEPwPzFlfFeHmddkM=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczO7ztvUVeN2njSDewl1GR_DIt56-i2vaxZiC_ciyxvINaGViN28n8CvgJtJ5JxWGeZz_jeaghvdzagAWKOzlwg6p-X4pe--XqGEtrXtdoXjT-Vhgfk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczN5eIX09sPigew1YtK82xdjoQPNE56ZY6iJYsHY12sUTVjbeMpwXjZlE604SeugzPCIPVQtONv9Wob2oU1hwP9H0GT9PV1_RItS03HhtBuKQXKgXCA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPzjtApw1UotVWdftwugEfm1so0EYSCpSjazU5hHEXurUJbf291J67-qHwRkhCKtX9BdfVDI6bwDr-Qypr83G7j695A8iiPZKqAEXGaPL_PkXa5m5Y=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNZH3GdwMtV67HzQLc8M0yeoHuHVQKK2BMQPNTrivmW5fHE_5XMcLLOwAT4dKGZOXL07U679mDG8FZ-eKHIiviqdvE14AK66OTq6DSuJcKxhPk5Iow=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOqBuANcLnffqpZECf7pmHWjWkUVU20sSz4LJzxmkXdJ-8vFzikjabejDBSwIin0rlvVqhC-4siaAIWwBvKtaQ3mt9cA5La6pAwTC9ocGISPWyt6Dc=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczMh-QJU9BAPUbSUn_a_a25CQs-J4HtYw8gjSDJDr68_AW3e8k-ibkupcOf2iLqZ7JP1pPTDLuZAl0U7LT6WIK5obkdkygO6f5PAsb_xoRw3UHhMBwA=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczPrEJuZmL0CuY1apdRyiMtYSDv6LZk470DZimRgBqr0Y-6FjghEuBWOYN0VmOLodbahi7b1EOWTZPf_mvLSI5W-2bMhbDoWfMy4m7Mz4bX-r0AOVDk=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczM2w9Ub091taQyo7NDDOgNMAutsdIAX2-_xgUWcKYLFmg8wjEqrPp78aMHOCqaTxJ_fr2uewsYU_CK0Dnu7j6dftuUO2DEWJzMmsXKYOfv7AQNh-gQ=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOe59YvxGyD0E1tdWh-x3yoAjWSPWR2JTomkd0XU6TruKCzGV3h2k2a5YHKpSLgnIOIEHCp1HAWJLC1KVI3LPhVoUVRUJbmpZcX8-Dvn6QyQjtzYH4=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNPrD5TyklGEXBHmBFRNgpW2w5wA1pKHXQKy0YMSJPQ0Q26ccYV6VEe-FYM0JKufgFtNklN4MP5C1L5LIMZd-dsM3f_osvwbYYjKnqsfSFo2R7xhyw=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczNt3GzpBUBZLb3eO_QF8m-tRTa2HVJwLEkcIXDgfko3zyAfrO7otFKYdf7XSJ90vpInJ88sV_xqLXselPlQGW1VoK3CojBr6bikaKTTlNpBkaHEW3w=w1920-h1080"></object>
+  <object data="https://lh3.googleusercontent.com/pw/AP1GczOrebJa9_ow9HulVsjKBVhWO4DZQotV8wila8aP91chaju3cAma_au_0dBMvaHzNUsfET38PrLqzPDn9T1o3b57SwVxeWrLpjzvbZoQ7hs__AjgVTo=w1920-h1080"></object>
+</div>
+'''
