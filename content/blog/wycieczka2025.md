@@ -12,4 +12,4 @@ Oj nóżki bolą, oj bolą. 10 km zrobione, a i tak można byłoby zrobić więc
 <a href="https://www.beamish.org.uk/" target="_blank" rel="noopener noreferrer" class="btn btn-template-main">Strona Beamish Museum</a>
 <br><br>
 
-{{< google-photos "wycieczka2025" >}}
+{{< google-photos-grid "wycieczka2025" "Wycieczka szkolna 2025 - Beamish Museum" >}}
