@@ -16,5 +16,4 @@ Rozpoczęliśmy Polonezem, który dodał splendoru naszej uroczystości i wprowa
 
 W tym roku mieliśmy bardzo wysoką frekwencję i średnią ocen w klasach, dlatego też wyróżniono dodatkowo 28 uczniów za wzorową frekwencję, 4 za osiągnięty postęp w nauce oraz 1 uczennicy nadano tytuł Ucznia Roku. Składamy tutaj jeszcze raz serdeczne podziękowania wszystkim, którzy w jakimkolwiek stopniu brali udział w organizacji życia szkolnego. Gratulujemy też naszym uczniom osiągniętych sukcesów. Dziękujemy za wspólnie spędzony czas i życzymy udanych wakacji. Łapcie wiatr w żagle i wracajcie do nas we wrześniu❤❤❤
 
-{{< google-photos2 "Zakonczenie26" >}}
 {{< google-photos-grid "Zakonczenie26" "" >}}
