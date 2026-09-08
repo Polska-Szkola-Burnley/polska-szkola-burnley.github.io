@@ -31,16 +31,23 @@
 .gpg-{{ $uid }}-item{position:relative;overflow:hidden;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.18);cursor:zoom-in;aspect-ratio:1/1;background:#eef0f2}
 .gpg-{{ $uid }}-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
 .gpg-{{ $uid }}-item:hover img{transform:scale(1.06)}
-.gpg-{{ $uid }}-lb{position:fixed;top:0;left:0;right:0;bottom:0;z-index:9999;background:rgba(0,0,0,.94);display:none;align-items:center;justify-content:center}
+.gpg-{{ $uid }}-lb{position:fixed;top:0;left:0;right:0;bottom:0;z-index:9999;background:rgba(0,0,0,.85);display:none;align-items:center;justify-content:center;padding:20px}
 .gpg-{{ $uid }}-lb.show{display:flex}
-.gpg-{{ $uid }}-lb-stage{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%}
-.gpg-{{ $uid }}-lb-stage img{max-width:92vw;max-height:86vh;width:auto;height:auto;object-fit:contain;border-radius:4px;box-shadow:0 0 30px rgba(0,0,0,.6);margin:auto}
-.gpg-{{ $uid }}-count{color:#fff;font-size:14px;margin-top:14px;text-align:center}
-.gpg-{{ $uid }}-btn{position:absolute;z-index:2;background:rgba(255,255,255,.15);color:#fff;border:none;font-size:26px;cursor:pointer;border-radius:50%;width:48px;height:48px;line-height:1;display:flex;align-items:center;justify-content:center;transition:background .2s;padding:0}
-.gpg-{{ $uid }}-btn:hover{background:rgba(255,255,255,.35)}
-.gpg-{{ $uid }}-close{top:16px;right:16px}
-.gpg-{{ $uid }}-prev{left:16px;top:50%;transform:translateY(-50%)}
-.gpg-{{ $uid }}-next{right:16px;top:50%;transform:translateY(-50%)}
+.gpg-{{ $uid }}-lb-frame{background:#fff;border-radius:5px;padding:5px;box-shadow:0 10px 50px rgba(0,0,0,.6);display:flex;flex-direction:column;max-width:94vw;max-height:94vh}
+.gpg-{{ $uid }}-lb-imgwrap{position:relative;line-height:0}
+.gpg-{{ $uid }}-lb-imgwrap img{display:block;max-width:90vw;max-height:78vh;width:auto;height:auto;border-radius:2px;border:3px solid #fff;background:#fff}
+.gpg-{{ $uid }}-prev,.gpg-{{ $uid }}-next{position:absolute;top:0;bottom:0;width:34%;height:100%;border:none;background:none;cursor:pointer;opacity:0;transition:opacity .6s;z-index:10;display:flex;align-items:center}
+.gpg-{{ $uid }}-prev{left:0;justify-content:flex-start;padding-left:10px}
+.gpg-{{ $uid }}-next{right:0;justify-content:flex-end;padding-right:10px}
+.gpg-{{ $uid }}-prev::after,.gpg-{{ $uid }}-next::after{content:'';width:0;height:0;border:18px solid transparent;filter:drop-shadow(0 0 6px rgba(0,0,0,.7))}
+.gpg-{{ $uid }}-prev::after{border-right-color:#fff}
+.gpg-{{ $uid }}-next::after{border-left-color:#fff}
+.gpg-{{ $uid }}-lb-frame:hover .gpg-{{ $uid }}-prev,.gpg-{{ $uid }}-lb-frame:hover .gpg-{{ $uid }}-next{opacity:1}
+.gpg-{{ $uid }}-lb-data{padding:12px 16px;color:#333;text-align:left;border-top:1px solid #f0f0f0;line-height:1.3}
+.gpg-{{ $uid }}-lb-caption{display:block;font-size:14px;font-weight:bold}
+.gpg-{{ $uid }}-lb-number{display:block;color:#999;font-size:12px;margin-top:3px}
+.gpg-{{ $uid }}-close{position:fixed;top:16px;right:16px;background:rgba(255,255,255,.15);color:#fff;border:none;font-size:24px;cursor:pointer;border-radius:50%;width:44px;height:44px;line-height:1;display:flex;align-items:center;justify-content:center;transition:background .2s;padding:0;z-index:11}
+.gpg-{{ $uid }}-close:hover{background:rgba(255,255,255,.35)}
 </style>
 
 <div class="gpg-{{ $uid }}" id="gpg-{{ $uid }}">
@@ -52,12 +59,17 @@
 </div>
 
 <div class="gpg-{{ $uid }}-lb" id="gpg-{{ $uid }}Lb" aria-hidden="true">
-  <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-close" type="button" data-act="close" aria-label="Zamknij" data-lb="{{ $uid }}">&#10005;</button>
-  <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-prev" type="button" data-act="prev" aria-label="Poprzednie" data-lb="{{ $uid }}">&#8249;</button>
-  <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-next" type="button" data-act="next" aria-label="Następne" data-lb="{{ $uid }}">&#8250;</button>
-  <div class="gpg-{{ $uid }}-lb-stage">
-    <img id="gpg-{{ $uid }}Img" src="" alt="Podgląd zdjęcia">
-    <div class="gpg-{{ $uid }}-count" id="gpg-{{ $uid }}Count"></div>
+  <button class="gpg-{{ $uid }}-close" type="button" data-act="close" aria-label="Zamknij" data-lb="{{ $uid }}">&#10005;</button>
+  <div class="gpg-{{ $uid }}-lb-frame">
+    <div class="gpg-{{ $uid }}-lb-imgwrap">
+      <img id="gpg-{{ $uid }}Img" src="" alt="Podgląd zdjęcia">
+      <button class="gpg-{{ $uid }}-prev" type="button" data-act="prev" aria-label="Poprzednie" data-lb="{{ $uid }}"></button>
+      <button class="gpg-{{ $uid }}-next" type="button" data-act="next" aria-label="Następne" data-lb="{{ $uid }}"></button>
+    </div>
+    <div class="gpg-{{ $uid }}-lb-data">
+      <span class="gpg-{{ $uid }}-lb-caption">{{ $title }}</span>
+      <span class="gpg-{{ $uid }}-lb-number" id="gpg-{{ $uid }}Count"></span>
+    </div>
   </div>
 </div>
 
