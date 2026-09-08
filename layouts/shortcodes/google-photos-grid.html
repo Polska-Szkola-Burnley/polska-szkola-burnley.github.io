@@ -31,10 +31,16 @@
 .gpg-{{ $uid }}-item{position:relative;overflow:hidden;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,.18);cursor:zoom-in;aspect-ratio:1/1;background:#eef0f2}
 .gpg-{{ $uid }}-item img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .4s ease}
 .gpg-{{ $uid }}-item:hover img{transform:scale(1.06)}
-.gpg-{{ $uid }}-lb{position:fixed;top:0;left:0;right:0;bottom:0;z-index:9999;background:rgba(0,0,0,.94);display:none;align-items:center;justify-content:center;flex-direction:column}
+.gpg-{{ $uid }}-lb{position:fixed;top:0;left:0;right:0;bottom:0;z-index:9999;background:rgba(0,0,0,.94);display:none;align-items:center;justify-content:center}
 .gpg-{{ $uid }}-lb.show{display:flex}
-.gpg-{{ $uid }}-lb img{max-width:92vw;max-height:82vh;width:auto;height:auto;object-fit:contain;border-radius:4px;box-shadow:0 0 30px rgba(0,0,0,.6);margin:auto}
-.gpg-{{ $uid }}-count{color:#fff;font-size:14px;margin:0 auto 16px}
+.gpg-{{ $uid }}-lb-stage{display:flex;flex-direction:column;align-items:center;justify-content:center;max-width:94vw;max-height:94vh}
+.gpg-{{ $uid }}-lb-stage img{max-width:92vw;max-height:82vh;width:auto;height:auto;object-fit:contain;border-radius:4px;box-shadow:0 0 30px rgba(0,0,0,.6)}
+.gpg-{{ $uid }}-count{color:#fff;font-size:14px;margin-top:14px;text-align:center}
+.gpg-{{ $uid }}-btn{position:absolute;z-index:2;background:rgba(255,255,255,.15);color:#fff;border:none;font-size:26px;cursor:pointer;border-radius:50%;width:48px;height:48px;line-height:1;display:flex;align-items:center;justify-content:center;transition:background .2s;padding:0}
+.gpg-{{ $uid }}-btn:hover{background:rgba(255,255,255,.35)}
+.gpg-{{ $uid }}-close{top:16px;right:16px}
+.gpg-{{ $uid }}-prev{left:16px;top:50%;transform:translateY(-50%)}
+.gpg-{{ $uid }}-next{right:16px;top:50%;transform:translateY(-50%)}
 </style>
 
 <div class="gpg-{{ $uid }}" id="gpg-{{ $uid }}">
@@ -48,9 +54,11 @@
 <div class="gpg-{{ $uid }}-lb" id="gpg-{{ $uid }}Lb" aria-hidden="true">
   <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-close" type="button" data-act="close" aria-label="Zamknij" data-lb="{{ $uid }}">&#10005;</button>
   <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-prev" type="button" data-act="prev" aria-label="Poprzednie" data-lb="{{ $uid }}">&#8249;</button>
-  <img id="gpg-{{ $uid }}Img" src="" alt="Podgląd zdjęcia">
   <button class="gpg-{{ $uid }}-btn gpg-{{ $uid }}-next" type="button" data-act="next" aria-label="Następne" data-lb="{{ $uid }}">&#8250;</button>
-  <div class="gpg-{{ $uid }}-count" id="gpg-{{ $uid }}Count"></div>
+  <div class="gpg-{{ $uid }}-lb-stage">
+    <img id="gpg-{{ $uid }}Img" src="" alt="Podgląd zdjęcia">
+    <div class="gpg-{{ $uid }}-count" id="gpg-{{ $uid }}Count"></div>
+  </div>
 </div>
 
 <script>
