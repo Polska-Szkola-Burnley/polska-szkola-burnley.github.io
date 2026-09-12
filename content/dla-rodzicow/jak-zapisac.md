@@ -84,6 +84,12 @@ Wypełnij formularz:
     <textarea name="parents_address" id="parents_address" class="form-control" required></textarea>
   </div>
 
+  <div class="form-group">
+    <label for="math_answer">Zabezpieczenie antyspamowe — podaj wynik działania <strong id="math_question"></strong>? *</label>
+    <input type="text" name="math_answer" id="math_answer" class="form-control" inputmode="numeric" autocomplete="off" placeholder="Wpisz wynik" required>
+    <input type="hidden" name="math_hash" id="math_hash" value="">
+  </div>
+
   <button type="submit" class="btn btn-template-main">
     Wyślij zgłoszenie
   </button>
@@ -154,5 +160,23 @@ document.addEventListener('DOMContentLoaded', function() {
       parentsAddressTextarea.value = this.value;
     }
   });
+
+  // CAPTCHA matematyczna (antyspam):
+  // losowe działanie + hash oczekiwanego wyniku wysyłany w ukrytym polu.
+  // Funkcja FNV-1a musi być identyczna jak w netlify/functions/enroll.js.
+  function fnv1a(str) {
+    let h = 0x811c9dc5;
+    const s = String(str).trim().toLowerCase();
+    for (let i = 0; i < s.length; i++) {
+      h ^= s.charCodeAt(i);
+      h = Math.imul(h, 0x01000193);
+    }
+    return (h >>> 0).toString(16).padStart(8, "0");
+  }
+
+  const mathNumA = 1 + Math.floor(Math.random() * 20);
+  const mathNumB = 1 + Math.floor(Math.random() * 20);
+  document.getElementById('math_question').textContent = mathNumA + ' + ' + mathNumB;
+  document.getElementById('math_hash').value = fnv1a(mathNumA + mathNumB);
 });
 </script>
