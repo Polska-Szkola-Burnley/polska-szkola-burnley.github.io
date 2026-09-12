@@ -7,7 +7,7 @@ draft: false
 ### Czesne – rok szkolny 2026/2027
 
 Czesne należy wpłacić na konto szkoły:
-
+- **Nazwa**: `Polish Saturday School in Burnley`
 - **Numer konta**: `53605949`  
 - **Sort code**: `20-15-70`  
 - **Termin płatności**: do **12 września 2026**

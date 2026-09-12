@@ -1,1 +1,9 @@
-{"taxonomy":{"tags":[],"categories":["ogłoszenia","wydarzenia"]}}
+{
+  "taxonomy": {
+    "categories": [
+      "ogłoszenia",
+      "wydarzenia"
+    ],
+    "tags": []
+  }
+}

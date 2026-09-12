@@ -13,6 +13,4 @@ Małymi kroczkami zbliżamy się do zakończenia semestru I.
 A my mamy zaległości w zaprezentowaniu Wam - drodzy przyjaciele, tego co się działo u nas w grudniu. A zawsze dużo się dzieje, nie siedzimy, wierzcie nam🙃 Z miłości do dzieci ❤
 To są szkolne Mikołajki - obejrzyjcie skrót.
 
-{{< facebook-reel "2361637727592621" >}}
-
-{{< google-photos "Mikolajki25" >}}
+{{< google-photos-grid "Mikolajki25" "">}}
