@@ -51,31 +51,50 @@ function countDigits(v) {
 
 // CAPTCHA matematyczna: przeglądarka wysyła odpowiedź (math_answer)
 // oraz hash oczekiwanego wyniku (math_hash). Tu porównujemy hash podanej
-// odpowiedzi z oczekiwanym hashem.
+// odpowiedzi z oczekiwanym hashem. Zwraca null, gdy OK, albo komunikat błędu.
 function checkCaptcha(data) {
   const answer = String(data.math_answer || "").trim();
   const expectedHash = String(data.math_hash || "").trim().toLowerCase();
-  if (!answer || !expectedHash) return false;
-  if (!/^[0-9a-f]{8}$/.test(expectedHash)) return false;
-  return fnv1a(answer) === expectedHash;
+  if (!answer) {
+    return "Pole antyspamowe jest puste — wpisz wynik działania.";
+  }
+  if (!/^[0-9a-f]{8}$/.test(expectedHash)) {
+    return "Brak poprawnego zabezpieczenia antyspamowego. Odśwież stronę i spróbuj ponownie.";
+  }
+  if (fnv1a(answer) !== expectedHash) {
+    return "Pole antyspamowe zostało wypełnione niepoprawnie — podany wynik jest zły. Spróbuj ponownie.";
+  }
+  return null;
 }
 
-// Walidacja najważniejszych pól formularza. Odrzuca bez wysyłki maila.
+// Walidacja najważniejszych pól formularza. Zwraca null, gdy OK, albo komunikat błędu.
 function validateFields(data) {
   const textFields = [
-    "child_name",
-    "child_birth_place",
-    "child_address",
-    "english_school",
-    "parent1_name",
+    ["child_name", "Imię i nazwisko dziecka"],
+    ["child_birth_place", "Miejsce urodzenia dziecka"],
+    ["child_address", "Adres zamieszkania dziecka"],
+    ["english_school", "Nazwa angielskiej szkoły"],
+    ["parent1_name", "Imię i nazwisko pierwszego rodzica"],
   ];
-  for (const key of textFields) {
-    if (!data[key] || !hasLetters(data[key])) return false;
+  for (const [key, label] of textFields) {
+    const v = data[key];
+    if (!v || !hasLetters(v)) {
+      return `Pole „${label}" jest puste lub nie zawiera liter.`;
+    }
   }
-  if (!isValidEmail(data.contact_email)) return false;
-  if (!isValidBirthDate(data.child_birth_date)) return false;
-  if (countDigits(data.parent1_phone) < 6) return false;
-  return true;
+  if (!data.contact_email || !String(data.contact_email).trim()) {
+    return "Pole „Email kontaktowy” jest puste.";
+  }
+  if (!isValidEmail(data.contact_email)) {
+    return "Podany adres email jest niepoprawny (wymagany format np. jan@przyklad.pl).";
+  }
+  if (!isValidBirthDate(data.child_birth_date)) {
+    return `Data urodzenia jest niepoprawna (wymagany format RRRR-MM-DD i realna data z lat 2005–${new Date().getFullYear()}).`;
+  }
+  if (countDigits(data.parent1_phone) < 6) {
+    return "Nr telefonu pierwszego rodzica musi zawierać co najmniej 6 cyfr.";
+  }
+  return null;
 }
 
 function rejected(message) {
@@ -117,16 +136,14 @@ exports.handler = async (event, context) => {
   try {
     const data = querystring.parse(event.body);
 
-    if (!checkCaptcha(data)) {
-      return rejected(
-        "Pole antyspamowe zostało wypełnione niepoprawnie. Sprawdź wynik działania i spróbuj ponownie."
-      );
+    const captchaError = checkCaptcha(data);
+    if (captchaError) {
+      return rejected(captchaError);
     }
 
-    if (!validateFields(data)) {
-      return rejected(
-        "Brakuje wymaganych danych lub część z nich jest niepoprawna (np. email, data urodzenia, telefon). Uzupełnij formularz i spróbuj ponownie."
-      );
+    const validationError = validateFields(data);
+    if (validationError) {
+      return rejected(validationError);
     }
 
     // transporter SMTP (np. Gmail – wymaga App Password!)
