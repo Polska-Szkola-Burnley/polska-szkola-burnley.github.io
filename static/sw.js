@@ -1,6 +1,3 @@
-// Import biblioteki OneSignal do obsługi powiadomień
-importScripts('/OneSignalSDK.sw.js');
-
 const CACHE_NAME = 'ps-burnley-v1';
 const urlsToCache = [
   '/',

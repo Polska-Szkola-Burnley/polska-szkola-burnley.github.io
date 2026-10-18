@@ -5,7 +5,7 @@ draft: false
 description: "Przeczytaj Politykę Prywatności Polskiej Szkoły w Burnley. Wyjaśniamy, jak chronimy Twoje dane osobowe i jakie masz prawa zgodnie z RODO (GDPR)."
 type: "page"
 ---
-*Ostatnia aktualizacja 21.12.2024* 
+*Ostatnia aktualizacja 18.10.2026* 
 
 Celem niniejszej Polityki Prywatności jest wyjaśnienie zasad, na jakich przetwarzane są Państwa dane osobowe oraz omówienie Państwa podstawowych praw związanych z przetwarzaniem przez nas Państwa danych osobowych.
 
@@ -42,7 +42,9 @@ Po zaprzestaniu korzystania z usług Szkoły Państwa dane będą usunięte w cz
 
 ## Przekazywanie danych osobowych innym podmiotom
 
-Szkoła nie przekazuje danych osobowych innym podmiotom.
+Szkoła nie przekazuje danych osobowych innym podmiotom w celach marketingowych. Należy jednak pamiętać, że strona korzysta z zasobów technicznych dostarczanych przez podmioty trzecie (patrz sekcja o plikach cookie poniżej), do których trafiają dane techniczne, takie jak adres IP — bez działania tych usług strona nie mogłaby być wyświetlana.
+
+Formularz kontaktowy na stronie obsługiwany jest przez usługę Formspree; podany w nim adres e-mail jest przetwarzany przez tego dostawcę w celu przekazania wiadomości do Szkoły.
 
 ## Zmiany Polityki Prywatności
 
@@ -50,6 +52,10 @@ Zmiany polityki prywatności będą publikowane na stronie polska-szkola-burnley
 
 ## Polityka ciasteczek "cookies"
 
-Strona [polska-szkola-burnley.co.uk](/) nie korzysta z plików cookie.
+Strona [polska-szkola-burnley.co.uk](/) **nie korzysta z plików cookie własnych ani z narzędzi analitycznych i reklamowych**. Nie stosujemy również systemu powiadomień push ani żadnego śledzenia użytkowników między witrynami.
 
-Nasza strona internetowa może zapisywać pliki cookie stron trzecich. Mogą one wykorzystywać pliki cookie do gromadzenia informacji o Państwa działaniach online na różnych witrynach i usługach. Nie mamy kontroli nad tymi plikami cookie, a ich wykorzystanie podlega polityce prywatności odpowiednich stron trzecich.
+Należy jednak pamiętać, że strona ładuje zasoby (czcionki, ikony, biblioteki JavaScript) z serwisów zewnętrznych: Google Fonts (fonts.googleapis.com), Font Awesome (use.fontawesome.com), BootstrapCDN (maxcdn.bootstrapcdn.com), code.jquery.com i cdnjs.cloudflare.com. Odwiedziny na stronie powodują połączenia z tymi serwerami, co jest technicznie związane z ujawnieniem adresu IP.
+
+Ponadto strona [Kalendarz wydarzeń](/dla-rodzicow/calendar) osadza kalendarz Google, który może zapisywać pliki cookie zgodnie z polityką prywatności Google.
+
+Korzystanie z zasobów zewnętrznych nie wymaga zgody na profilowanie — nie gromadzimy danych o zachowaniu użytkowników i nie tworzymy profili. Wyłączenie JavaScript w przeglądarce ogranicza jedynie wygląd strony.
