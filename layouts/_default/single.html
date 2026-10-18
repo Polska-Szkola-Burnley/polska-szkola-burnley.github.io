@@ -49,14 +49,6 @@
             </div>
             <!-- /#post-content -->
 
-            {{ partial "cusdis.html" . }}
-
-            {{ if .Site.Config.Services.Disqus.Shortname }}
-            <div id="comments">
-              {{ template "_internal/disqus.html" . }}
-            </div>
-            {{ end }}
-
           </div>
           <!-- /#blog-post -->
 
