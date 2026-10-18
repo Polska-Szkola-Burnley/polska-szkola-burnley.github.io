@@ -32,9 +32,21 @@ x - dzień wolny,
 * **27/02/2027 i w marcu 2027** – spotkania indywidualne według ustaleń nauczyciela prowadzącego.
 * **12/06/2027** – Ostateczny termin testów na zakończenie roku szkolnego.
 
-<div style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;">
-  <iframe src="https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&ctz=Europe%2FLondon" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;" frameborder="0" scrolling="no"></iframe>
+<div id="calendar-consent" class="calendar-consent">
+  <p>Kalendarz ładuje się z Google. Kliknięcie spowoduje połączenie z <code>calendar.google.com</code> i może wiązać się z przekazaniem danych do Google zgodnie z jego polityką prywatności.</p>
+  <button type="button" id="show-calendar" class="btn btn-primary btn-template-main" data-src="https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&ctz=Europe%2FLondon" aria-label="Pokaż kalendarz Google">
+    Pokaż kalendarz
+  </button>
+  <p class="small">
+    <a href="https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&ctz=Europe%2FLondon" target="_blank" rel="noopener noreferrer">
+      Otwórz kalendarz w nowej karcie (bez ładowania na tej stronie)
+    </a>
+  </p>
+  <div id="calendar-placeholder" style="position: relative; padding-bottom: 75%; height: 0; overflow: hidden;" aria-live="polite"></div>
 </div>
+<noscript>
+  <p>Kalendarz wymaga włączonego JavaScriptu. <a href="https://calendar.google.com/calendar/embed?src=46f775d6ce2ac8009c37a3e0d6377b3d6a9e8c7a92518bf02f08c12f28a0af3e%40group.calendar.google.com&ctz=Europe%2FLondon" target="_blank" rel="noopener noreferrer">Otwórz kalendarz w nowej karcie</a>.</p>
+</noscript>
 
 Terminarz zajęć w Polskiej Szkole w Burnley na rok **2026/2027**.
 <iframe src="/pdf/terminarz_26-27.pdf" width="100%" height="700px">
