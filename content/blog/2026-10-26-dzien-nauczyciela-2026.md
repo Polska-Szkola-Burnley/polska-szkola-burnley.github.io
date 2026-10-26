@@ -1,9 +1,10 @@
 ---
 title: Dzień Nauczyciela 2026
-description: ""
+description: W ostatnią sobotę, tj. 17.10.2026, obchodziliśmy Dzień Nauczyciela. Akademia rozpoczęła się ślubowaniem uczniów klasy 1 i studentów klas starszych.
 date: 2026-10-26T19:45:25.367Z
-draft: false
-categories: []
+draft: false``
+categories:
+    - wydarzenia
 authors:
     - mgr Monika Deptuś
 banner: https://lh3.googleusercontent.com/pw/AP1GczO5KrnM_JnIxuvYhoBummTOGGncknYNTfMGHeEhVn5OHR4yv0egAh3p2z7yHsQZtbOxTzCcCOWzCaBaoTzxwVqpll5I5DOU9tRkKELEvfaX5x_h6hM=w1920-h1080
