@@ -2,7 +2,7 @@
 title: Dzień Nauczyciela 2026
 description: ""
 date: 2026-10-26T19:45:25.367Z
-draft: true
+draft: false
 categories: []
 authors:
     - mgr Monika Deptuś
